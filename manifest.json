@@ -1,90 +1,90 @@
 {
-  "version": 3,
-  "updatedAt": "2026-08-06T14:03:35Z",
+  "version": 4,
+  "updatedAt": "2026-08-06T16:38:09Z",
   "files": [
     {
       "path": "subjects/AP_DSC/PD.json",
       "examType": "AP_DSC",
       "paperType": "PD",
-      "checksum": "7c93cfea1e22dbda60c538c508953d1a",
-      "size": 19059
+      "checksum": "d3ee6cfc3b1ac0196b5b2d0d1cf5467a",
+      "size": 55559
     },
     {
       "path": "subjects/AP_DSC/PET.json",
       "examType": "AP_DSC",
       "paperType": "PET",
-      "checksum": "d2c46435fef6499edc56b4a99f4460b2",
-      "size": 19100
+      "checksum": "c61183c89ac269a59b14f2ab413e023d",
+      "size": 55585
     },
     {
       "path": "subjects/AP_DSC/SA.json",
       "examType": "AP_DSC",
       "paperType": "SA",
-      "checksum": "ae95e331d9a7974ebd27d2b18b775af9",
-      "size": 57219
+      "checksum": "d7535686612aff8d3b75b72bc9c50d95",
+      "size": 93719
     },
     {
       "path": "subjects/AP_DSC/SGT.json",
       "examType": "AP_DSC",
       "paperType": "SGT",
-      "checksum": "8559e637b5ceccdff25c5947a302238f",
-      "size": 49806
+      "checksum": "6f7067bce4eaed0983c04c4525775990",
+      "size": 86291
     },
     {
       "path": "subjects/AP_TET/PAPER_1.json",
       "examType": "AP_TET",
       "paperType": "PAPER_1",
-      "checksum": "a0c6199b774a8cb74f0c581cd1dd47aa",
-      "size": 42470
+      "checksum": "0ff2ae745cc53ea7b6532592e66beac2",
+      "size": 76889
     },
     {
       "path": "subjects/AP_TET/PAPER_2.json",
       "examType": "AP_TET",
       "paperType": "PAPER_2",
-      "checksum": "9d626c274e6b94d9f761fddd5e30fc4b",
-      "size": 41621
+      "checksum": "bade3071124fa9137d460f64b5887090",
+      "size": 76040
     },
     {
       "path": "subjects/TS_DSC/PD.json",
       "examType": "TS_DSC",
       "paperType": "PD",
-      "checksum": "f5f0cb935b16da857b270b5e1b4cfdaa",
-      "size": 19059
+      "checksum": "20c7779b0d00e1ecdc461491ffd894a8",
+      "size": 55559
     },
     {
       "path": "subjects/TS_DSC/PET.json",
       "examType": "TS_DSC",
       "paperType": "PET",
-      "checksum": "24acb202ade0d50c83d612cf6906e693",
-      "size": 19100
+      "checksum": "f5b65e4cc77f4557c9fe798ec28739ab",
+      "size": 55585
     },
     {
       "path": "subjects/TS_DSC/SA.json",
       "examType": "TS_DSC",
       "paperType": "SA",
-      "checksum": "6d7868d64d6acd7272f1ed8ed76ff3e4",
-      "size": 57238
+      "checksum": "ca5a0d77dc0b7394cc4d1e112869243d",
+      "size": 93738
     },
     {
       "path": "subjects/TS_DSC/SGT.json",
       "examType": "TS_DSC",
       "paperType": "SGT",
-      "checksum": "14f60ee9810aa86bedfe4df75c73bf1e",
-      "size": 49825
+      "checksum": "9883f9d417a731ea8c9282f05828e547",
+      "size": 86310
     },
     {
       "path": "subjects/TS_TET/PAPER_1.json",
       "examType": "TS_TET",
       "paperType": "PAPER_1",
-      "checksum": "44b9611e545ae962019987993f66a12e",
-      "size": 42470
+      "checksum": "00b6261f799de7b3289087362ba3ba8f",
+      "size": 76889
     },
     {
       "path": "subjects/TS_TET/PAPER_2.json",
       "examType": "TS_TET",
       "paperType": "PAPER_2",
-      "checksum": "e59acaa22fb294455f6bf2afbf5fb7eb",
-      "size": 41640
+      "checksum": "1386b75232d1123b58c57ef1ff5849f0",
+      "size": 76059
     }
   ]
 }
