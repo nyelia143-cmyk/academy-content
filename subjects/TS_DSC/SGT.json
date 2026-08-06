@@ -1,0 +1,807 @@
+[
+  {
+    "id": "tsdsc_sgt_gk",
+    "examType": "TS_DSC",
+    "paperType": "SGT",
+    "name": "General Knowledge & Current Affairs",
+    "nameTe": "జనరల్ నాలెడ్జ్ మరియు కరెంట్ అఫైర్స్",
+    "iconRes": "ic_gk",
+    "totalTopics": 1,
+    "totalQuestions": 1,
+    "orderIndex": 1,
+    "topics": [
+      {
+        "id": "tsdsc_sgt_gk_gk_t1",
+        "title": "General Knowledge - Indian Geography",
+        "titleTe": "జనరల్ నాలెడ్జ్ - భారత భౌగోళిక శాస్త్రం",
+        "content": "India is the seventh-largest country by area and the most populous country in the world. It is bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast.",
+        "contentTe": "విస్తీర్ణం ప్రకారం భారతదేశం ఏడవ అతిపెద్ద దేశం మరియు ప్రపంచంలో అత్యధిక జనాభా కలిగిన దేశం. దీనికి దక్షిణాన హిందూ మహాసముద్రం, నైరుతిలో అరేబియా సముద్రం మరియు ఆగ్నేయాన బంగాళాఖాతం సరిహద్దులుగా ఉన్నాయి.",
+        "keyPoints": [
+          "Total area: 3.28 million sq km",
+          "Highest peak in India: K2 (Godwin Austen) / Kangchenjunga",
+          "Longest river in India: Ganga"
+        ],
+        "keyPointsTe": [
+          "మొత్తం విస్తీర్ణం: 3.28 మిలియన్ చ.కి.మీ",
+          "భారతదేశంలో ఎత్తైన శిఖరం: K2 (గాడ్విన్ ఆస్టిన్) / కాంచన్‌జంగా",
+          "భారతదేశంలో పొడవైన నది: గంగా"
+        ],
+        "orderIndex": 1,
+        "estimatedMinutes": 25,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_gk_gk_t1_q1",
+            "question": "Which is the longest river in India?",
+            "questionTe": "భారతదేశంలో పొడవైన నది ఏది?",
+            "options": [
+              "Godavari",
+              "Ganga",
+              "Brahmaputra",
+              "Yamuna"
+            ],
+            "optionsTe": [
+              "గోదావరి",
+              "గంగా",
+              "బ్రహ్మపుత్ర",
+              "యమునా"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Ganga is the longest river flowing entirely within India (2525 km).",
+            "explanationTe": "గంగా నది భారతదేశంలో ప్రవహించే అత్యంత పొడవైన నది (2525 కి.మీ).",
+            "difficulty": "EASY",
+            "year": 2019,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_gk_gk_t1",
+            "subjectId": "tsdsc_sgt_gk",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_gk"
+      }
+    ]
+  },
+  {
+    "id": "tsdsc_sgt_pie",
+    "examType": "TS_DSC",
+    "paperType": "SGT",
+    "name": "Perspectives in Education",
+    "nameTe": "విద్యా దృక్పథాలు",
+    "iconRes": "ic_pie",
+    "totalTopics": 3,
+    "totalQuestions": 3,
+    "orderIndex": 2,
+    "topics": [
+      {
+        "id": "tsdsc_sgt_pie_pie_t1",
+        "title": "History of Education in India",
+        "titleTe": "భారతదేశంలో విద్యా చరిత్ర",
+        "content": "Education in India has evolved from the Vedic period (Gurukula system) to Buddhist education, Islamic education, and modern British policies like Macaulay's Minute (1835) and Wood's Despatch (1854).",
+        "contentTe": "భారతదేశంలో విద్య వేద కాలం (గురుకుల వ్యవస్థ) నుండి బౌద్ధ విద్య, ఇస్లామిక్ విద్య మరియు మెకాలే మినిట్ (1835) మరియు వుడ్స్ డెస్పాచ్ (1854) వంటి ఆధునిక బ్రిటిష్ విధానాల వరకు అభివృద్ధి చెందింది.",
+        "keyPoints": [
+          "Vedic Education: Focus on spiritual growth",
+          "Macaulay's Minute (1835): Introduced English education",
+          "Wood's Despatch (1854): Magna Carta of Indian Education"
+        ],
+        "keyPointsTe": [
+          "వేద విద్య: ఆధ్యాత్మిక వృద్ధిపై దృష్టి",
+          "మెకాలే మినిట్ (1835): ఆంగ్ల విద్యను ప్రవేశపెట్టింది",
+          "వుడ్స్ డెస్పాచ్ (1854): భారతీయ విద్య యొక్క మాగ్నాకార్టా"
+        ],
+        "orderIndex": 1,
+        "estimatedMinutes": 35,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_pie_pie_t1_q1",
+            "question": "Which document is called the 'Magna Carta' of Indian Education?",
+            "questionTe": "భారతీయ విద్య యొక్క 'మాగ్నాకార్టా' అని ఏ పత్రాన్ని పిలుస్తారు?",
+            "options": [
+              "Macaulay's Minute",
+              "Wood's Despatch",
+              "Hunter Commission",
+              "Sadler Commission"
+            ],
+            "optionsTe": [
+              "మెకాలే మినిట్",
+              "వుడ్స్ డెస్పాచ్",
+              "హంటర్ కమిషన్",
+              "సాడ్లర్ కమిషన్"
+            ],
+            "correctIndex": 1,
+            "explanation": "Wood's Despatch of 1854 is considered the Magna Carta of English Education in India.",
+            "explanationTe": "1854 నాటి వుడ్స్ డెస్పాచ్‌ను భారతదేశంలో ఆంగ్ల విద్య యొక్క మాగ్నాకార్టాగా పరిగణిస్తారు.",
+            "difficulty": "EASY",
+            "year": 2018,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_pie_pie_t1",
+            "subjectId": "tsdsc_sgt_pie",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_pie"
+      },
+      {
+        "id": "tsdsc_sgt_pie_pie_t2",
+        "title": "National Education Policy (NEP) 2020",
+        "titleTe": "జాతీయ విద్యా విధానం (NEP) 2020",
+        "content": "NEP 2020 aims to transform India's education system. It replaces the 10+2 structure with a 5+3+3+4 design covering ages 3 to 18.",
+        "contentTe": "NEP 2020 భారతదేశ విద్యా వ్యవస్థను మార్చడం లక్ష్యంగా పెట్టుకుంది. ఇది 3 నుండి 18 సంవత్సరాల వయస్సును కవర్ చేస్తూ 10+2 నిర్మాణాన్ని 5+3+3+4 డిజైన్‌తో భర్తీ చేస్తుంది.",
+        "keyPoints": [
+          "5+3+3+4 Curriculum structure",
+          "Foundational literacy and numeracy (FLN) by Grade 3",
+          "Mother tongue as medium of instruction till Grade 5",
+          "Holistic multidisciplinary education"
+        ],
+        "keyPointsTe": [
+          "5+3+3+4 పాఠ్యాంశాల నిర్మాణం",
+          "గ్రేడ్ 3 నాటికి ఫౌండేషనల్ లిటరసీ మరియు న్యూమరసీ (FLN)",
+          "గ్రేడ్ 5 వరకు మాతృభాష బోధనా మాధ్యమంగా",
+          "సంపూర్ణ బహుళవిజ్ఞాన విద్య"
+        ],
+        "orderIndex": 2,
+        "estimatedMinutes": 40,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_pie_pie_t2_q1",
+            "question": "What is the new pedagogical structure proposed by NEP 2020?",
+            "questionTe": "NEP 2020 ప్రతిపాదించిన కొత్త బోధనా నిర్మాణం ఏమిటి?",
+            "options": [
+              "10 + 2",
+              "5 + 3 + 3 + 4",
+              "8 + 4 + 3",
+              "5 + 5 + 4"
+            ],
+            "optionsTe": [
+              "10 + 2",
+              "5 + 3 + 3 + 4",
+              "8 + 4 + 3",
+              "5 + 5 + 4"
+            ],
+            "correctIndex": 1,
+            "explanation": "NEP 2020 replaces the 10+2 structure with a 5+3+3+4 structure.",
+            "explanationTe": "NEP 2020 10+2 నిర్మాణాన్ని 5+3+3+4 నిర్మాణంతో భర్తీ చేస్తుంది.",
+            "difficulty": "EASY",
+            "year": 2023,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_pie_pie_t2",
+            "subjectId": "tsdsc_sgt_pie",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_pie"
+      },
+      {
+        "id": "tsdsc_sgt_pie_pie_t3",
+        "title": "Inclusive Education",
+        "titleTe": "సమ్మిళిత విద్య",
+        "content": "Inclusive education means all children, regardless of their physical, intellectual, social, emotional, or linguistic conditions, learn together in the same classroom.",
+        "contentTe": "సమ్మిళిత విద్య అంటే పిల్లలందరూ, వారి శారీరక, మేధో, సామాజిక, భావోద్వేగ లేదా భాషా పరిస్థితులతో సంబంధం లేకుండా, ఒకే తరగతి గదిలో కలిసి నేర్చుకోవడం.",
+        "keyPoints": [
+          "Rights of Persons with Disabilities (RPWD) Act 2016",
+          "Addresses special educational needs (SEN)",
+          "Promotes equity and eliminates discrimination"
+        ],
+        "keyPointsTe": [
+          "వికలాంగుల హక్కుల (RPWD) చట్టం 2016",
+          "ప్రత్యేక విద్యా అవసరాలను (SEN) పరిష్కరిస్తుంది",
+          "సమానత్వాన్ని ప్రోత్సహిస్తుంది మరియు వివక్షను తొలగిస్తుంది"
+        ],
+        "orderIndex": 3,
+        "estimatedMinutes": 30,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_pie_pie_t3_q1",
+            "question": "Inclusive Education primarily focuses on:",
+            "questionTe": "సమ్మిళిత విద్య ప్రధానంగా దేనిపై దృష్టి పెడుతుంది?",
+            "options": [
+              "Only gifted children",
+              "Only disabled children",
+              "Integrating all children in mainstream schools",
+              "Special schools for special needs"
+            ],
+            "optionsTe": [
+              "ప్రతిభావంతులైన పిల్లలు మాత్రమే",
+              "వికలాంగ పిల్లలు మాత్రమే",
+              "పిల్లలందరినీ ప్రధాన స్రవంతి పాఠశాలల్లో కలపడం",
+              "ప్రత్యేక అవసరాల కోసం ప్రత్యేక పాఠశాలలు"
+            ],
+            "correctIndex": 2,
+            "explanation": "Inclusive education emphasizes accommodating every child in mainstream general education.",
+            "explanationTe": "సమ్మిళిత విద్య ప్రతి బిడ్డను ప్రధాన స్రవంతి సాధారణ విద్యలో చేర్చడాన్ని నొక్కి చెబుతుంది.",
+            "difficulty": "MEDIUM",
+            "year": 2022,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_pie_pie_t3",
+            "subjectId": "tsdsc_sgt_pie",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_pie"
+      }
+    ]
+  },
+  {
+    "id": "tsdsc_sgt_lang1_te",
+    "examType": "TS_DSC",
+    "paperType": "SGT",
+    "name": "Language I (Telugu)",
+    "nameTe": "భాష I - తెలుగు",
+    "iconRes": "ic_language",
+    "totalTopics": 2,
+    "totalQuestions": 3,
+    "orderIndex": 3,
+    "topics": [
+      {
+        "id": "tsdsc_sgt_lang1_te_telugu_t1",
+        "title": "Telugu Grammar (వ్యాకరణం)",
+        "titleTe": "తెలుగు వ్యాకరణం - సందులు, సమాసాలు",
+        "content": "సంధి అంటే పూర్వ పర స్వరాలకు పర స్వరం ఏకాదేశం కావడం. ముఖ్యమైన సందులు: సవర్ణదీర్ఘ సంధి, గుణ సంధి, వృద్ధి సంధి, యణాదేశ సంధి, అత్వ సంధి, ఇత్వ సంధి, ఉత్వ సంధి. సమాసం అంటే వేరువేరు అర్థాలు గల పదాలు కలిసి ఏక పదంగా ఏర్పడటం (ఉదా: ద్వంద్వ, ద్విగు, తత్పురుష సమాసాలు).",
+        "contentTe": "సంధి అంటే పూర్వ పర స్వరాలకు పర స్వరం ఏకాదేశం కావడం. ముఖ్యమైన సందులు: సవర్ణదీర్ఘ సంధి, గుణ సంధి, వృద్ధి సంధి, యణాదేశ సంధి, అత్వ సంధి, ఇత్వ సంధి, ఉత్వ సంధి. సమాసం అంటే వేరువేరు అర్థాలు గల పదాలు కలిసి ఏక పదంగా ఏర్పడటం (ఉదా: ద్వంద్వ, ద్విగు, తత్పురుష సమాసాలు).",
+        "keyPoints": [
+          "సవర్ణదీర్ఘ సంధి: అ, ఇ, ఉ, ఋ లకు సవర్ణములైన అచ్చులు పరమైనపుడు దీర్ఘం వస్తుంది (రామ + ఆలయం = రామాలయం)",
+          "గుణ సంధి: అకారానికి ఇ, ఉ, ఋ లు పరమైతే క్రమంగా ఏ, ఓ, ఆర్‌ లు ఆదేశంగా వస్తాయి (సూర్య + ఉదయం = సూర్యోదయం)",
+          "ద్వంద్వ సమాసం: ఉభయ పదాల అర్థం ప్రధానంగా గల సమాసం (తల్లీదండ్రులు)",
+          "ద్విగు సమాసం: సంఖ్యా వాచక విశేషణం పూర్వపదంగా గల సమాసం (నవగ్రహాలు)"
+        ],
+        "keyPointsTe": [
+          "సవర్ణదీర్ఘ సంధి: అ, ఇ, ఉ, ఋ లకు సవర్ణములైన అచ్చులు పరమైనపుడు దీర్ఘం వస్తుంది (రామ + ఆలయం = రామాలయం)",
+          "గుణ సంధి: అకారానికి ఇ, ఉ, ఋ లు పరమైతే క్రమంగా ఏ, ఓ, ఆర్‌ లు ఆదేశంగా వస్తాయి (సూర్య + ఉదయం = సూర్యోదయం)",
+          "ద్వంద్వ సమాసం: ఉభయ పదాల అర్థం ప్రధానంగా గల సమాసం (తల్లీదండ్రులు)",
+          "ద్విగు సమాసం: సంఖ్యా వాచక విశేషణం పూర్వపదంగా గల సమాసం (నవగ్రహాలు)"
+        ],
+        "orderIndex": 1,
+        "estimatedMinutes": 45,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_lang1_te_telugu_t1_q1",
+            "question": "Identify the Sandhi in 'రామాలయం' (Rama + Alayam)?",
+            "questionTe": "'రామాలయం' (రామ + ఆలయం) పదం ఏ సంధికి ఉదాహరణ?",
+            "options": [
+              "గుణ సంధి (Guna Sandhi)",
+              "సవర్ణదీర్ఘ సంధి (Savarnadeergha Sandhi)",
+              "వృద్ధి సంధి (Vruddhi Sandhi)",
+              "అత్వ సంధి (Atva Sandhi)"
+            ],
+            "optionsTe": [
+              "గుణ సంధి",
+              "సవర్ణదీర్ఘ సంధి",
+              "వృద్ధి సంధి",
+              "అత్వ సంధి"
+            ],
+            "correctIndex": 1,
+            "explanation": "రామ (అ) + ఆలయం (ఆ) = రామాలయం (ఆ). అక్షరానికి అక్షరం సవర్ణమై దీర్ఘం రావడం సవర్ణదీర్ఘ సంధి.",
+            "explanationTe": "రామ (అ) + ఆలయం (ఆ) = రామాలయం (ఆ). అక్షరానికి అక్షరం సవర్ణమై దీర్ఘం రావడం సవర్ణదీర్ఘ సంధి.",
+            "difficulty": "EASY",
+            "year": 2018,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_lang1_te_telugu_t1",
+            "subjectId": "tsdsc_sgt_lang1_te",
+            "examType": "TS_DSC"
+          },
+          {
+            "id": "tsdsc_sgt_lang1_te_telugu_t1_q2",
+            "question": "Which Samasam refers to a word having a number as its prefix?",
+            "questionTe": "సంఖ్యా వాచక విశేషణం పూర్వపదంగా గల సమాసం ఏది?",
+            "options": [
+              "ద్వంద్వ సమాసం (Dvandva Samasam)",
+              "ద్విగు సమాసం (Dvigu Samasam)",
+              "తత్పురుష సమాసం (Tatpurusha Samasam)",
+              "కర్మధారయ సమాసం (Karmadharaya Samasam)"
+            ],
+            "optionsTe": [
+              "ద్వంద్వ సమాసం",
+              "ద్విగు సమాసం",
+              "తత్పురుష సమాసం",
+              "కర్మధారయ సమాసం"
+            ],
+            "correctIndex": 1,
+            "explanation": "Dvigu Samasam always has a numerical prefix. Example: నవగ్రహాలు (Nava = 9).",
+            "explanationTe": "ద్విగు సమాసంలో ఎల్లప్పుడూ సంఖ్యా పూర్వపదం ఉంటుంది. ఉదాహరణ: నవగ్రహాలు (నవ = తొమ్మిది).",
+            "difficulty": "EASY",
+            "year": 2022,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_lang1_te_telugu_t1",
+            "subjectId": "tsdsc_sgt_lang1_te",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_lang1_te"
+      },
+      {
+        "id": "tsdsc_sgt_lang1_te_telugu_t2",
+        "title": "Telugu Vocabulary (పదజాలం)",
+        "titleTe": "పదజాలం - పర్యాయపదాలు, నానార్థాలు",
+        "content": "పర్యాయపదాలు: ఒకే అర్థాన్ని ఇచ్చే వేర్వేరు పదాలను పర్యాయపదాలు అంటారు. నానార్థాలు: ఒకే పదానికి సందర్భాన్ని బట్టి వేర్వేరు అర్థాలుంటే వాటిని నానార్థాలు అంటారు.",
+        "contentTe": "పర్యాయపదాలు: ఒకే అర్థాన్ని ఇచ్చే వేర్వేరు పదాలను పర్యాయపదాలు అంటారు. నానార్థాలు: ఒకే పదానికి సందర్భాన్ని బట్టి వేర్వేరు అర్థాలుంటే వాటిని నానార్థాలు అంటారు.",
+        "keyPoints": [
+          "పర్యాయపదాలు ఉదా: సూర్యుడు - రవి, భాస్కరుడు, ప్రభాకరుడు, దినకరుడు",
+          "నానార్థాలు ఉదా: రాజు - ప్రభువు, చంద్రుడు, ఇంద్రుడు",
+          "జాతీయాలు: ఒక భాషలో ఒక పదబంధం తన సొంత అర్థాన్ని కాకుండా వేరే విశేష అర్థాన్ని ఇస్తే అది జాతీయం (ఉదా: గుండెలు బాదుకొను - విపరీతమైన దుఃఖం)"
+        ],
+        "keyPointsTe": [
+          "పర్యాయపదాలు ఉదా: సూర్యుడు - రవి, భాస్కరుడు, ప్రభాకరుడు, దినకరుడు",
+          "నానార్థాలు ఉదా: రాజు - ప్రభువు, చంద్రుడు, ఇంద్రుడు",
+          "జాతీయాలు: ఒక భాషలో ఒక పదబంధం తన సొంత అర్థాన్ని కాకుండా వేరే విశేష అర్థాన్ని ఇస్తే అది జాతీయం (ఉదా: గుండెలు బాదుకొను - విపరీతమైన దుఃఖం)"
+        ],
+        "orderIndex": 2,
+        "estimatedMinutes": 30,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_lang1_te_telugu_t2_q1",
+            "question": "What is the synonym (Paryayapadam) for 'సూర్యుడు' (Sun)?",
+            "questionTe": "'సూర్యుడు' కు పర్యాయపదం ఏది?",
+            "options": [
+              "చంద్రుడు",
+              "భాస్కరుడు",
+              "నక్షత్రం",
+              "ఆకాశం"
+            ],
+            "optionsTe": [
+              "చంద్రుడు",
+              "భాస్కరుడు",
+              "నక్షత్రం",
+              "ఆకాశం"
+            ],
+            "correctIndex": 1,
+            "explanation": "భాస్కరుడు means Sun. Others mean Moon, Star, and Sky respectively.",
+            "explanationTe": "సూర్యుడికి పర్యాయపదాలు: రవి, భాస్కరుడు, ప్రభాకరుడు.",
+            "difficulty": "EASY",
+            "year": 2019,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_lang1_te_telugu_t2",
+            "subjectId": "tsdsc_sgt_lang1_te",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_lang1_te"
+      }
+    ]
+  },
+  {
+    "id": "tsdsc_sgt_lang2_en",
+    "examType": "TS_DSC",
+    "paperType": "SGT",
+    "name": "Language II (English)",
+    "nameTe": "భాష II - ఆంగ్లం",
+    "iconRes": "ic_english",
+    "totalTopics": 2,
+    "totalQuestions": 2,
+    "orderIndex": 4,
+    "topics": [
+      {
+        "id": "tsdsc_sgt_lang2_en_english_t1",
+        "title": "Parts of Speech",
+        "titleTe": "భాషా భాగాలు (Parts of Speech)",
+        "content": "The 8 parts of speech in English are: Noun (names a person, place, or thing), Pronoun (takes the place of a noun), Verb (expresses action or state of being), Adjective (describes a noun), Adverb (describes a verb, adjective, or adverb), Preposition (shows relationship), Conjunction (joins words or clauses), and Interjection (expresses strong emotion).",
+        "contentTe": "ఆంగ్లంలో 8 భాషా భాగాలు ఉన్నాయి: Noun (నామవాచకం), Pronoun (సర్వనామం), Verb (క్రియ), Adjective (విశేషణం), Adverb (క్రియా విశేషణం), Preposition (విభక్తి ప్రత్యయం), Conjunction (సముచ్చయం), మరియు Interjection (ఆశ్చర్యార్థకం).",
+        "keyPoints": [
+          "Noun: Rahul, Hyderabad, Happiness",
+          "Verb: Jump, Run, Is, Are",
+          "Adjective: Beautiful, Tall, Smart",
+          "Adverb: Quickly, Very, Well"
+        ],
+        "keyPointsTe": [
+          "Noun (నామవాచకం): రాహుల్, హైదరాబాద్, సంతోషం",
+          "Verb (క్రియ): దుముకు, పరిగెత్తు, ఉన్నాడు",
+          "Adjective (విశేషణం): అందమైన, పొడవైన, తెలివైన",
+          "Adverb (క్రియా విశేషణం): వేగంగా, చాలా, బాగా"
+        ],
+        "orderIndex": 1,
+        "estimatedMinutes": 40,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_lang2_en_english_t1_q1",
+            "question": "Identify the adverb in the sentence: 'She runs very fast.'",
+            "questionTe": "'She runs very fast.' అనే వాక్యంలో adverb ను గుర్తించండి.",
+            "options": [
+              "She",
+              "runs",
+              "very",
+              "Both 'very' and 'fast'"
+            ],
+            "optionsTe": [
+              "She",
+              "runs",
+              "very",
+              "'very' మరియు 'fast' రెండూ"
+            ],
+            "correctIndex": 3,
+            "explanation": "'fast' modifies the verb 'runs', so it's an adverb. 'very' modifies the adverb 'fast', making it also an adverb.",
+            "explanationTe": "'fast' అనేది 'runs' అనే క్రియను వివరిస్తుంది, కాబట్టి ఇది adverb. 'very' అనేది 'fast' అనే adverb ను వివరిస్తుంది, కాబట్టి ఇది కూడా adverb ఏ.",
+            "difficulty": "MEDIUM",
+            "year": 2021,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_lang2_en_english_t1",
+            "subjectId": "tsdsc_sgt_lang2_en",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_lang2_en"
+      },
+      {
+        "id": "tsdsc_sgt_lang2_en_english_t2",
+        "title": "Tenses",
+        "titleTe": "కాలాలు (Tenses)",
+        "content": "There are three main tenses: Present, Past, and Future. Each is divided into Simple, Continuous, Perfect, and Perfect Continuous.",
+        "contentTe": "మూడు ప్రధాన కాలాలు ఉన్నాయి: వర్తమాన, భూత, భవిష్యత్ కాలాలు. ఒక్కొక్కటి మళ్లీ Simple, Continuous, Perfect, మరియు Perfect Continuous గా విభజించబడింది.",
+        "keyPoints": [
+          "Simple Present: I write (Habitual/Universal truth)",
+          "Present Continuous: I am writing (Action happening now)",
+          "Simple Past: I wrote (Completed action)",
+          "Future: I will write (Action yet to happen)"
+        ],
+        "keyPointsTe": [
+          "Simple Present: నేను రాస్తాను (అలవాటు/సార్వత్రిక సత్యం)",
+          "Present Continuous: నేను రాస్తున్నాను (ప్రస్తుతం జరుగుతున్న పని)",
+          "Simple Past: నేను రాశాను (పూర్తయిన పని)",
+          "Future: నేను రాస్తాను (ఇకపై జరగబోయే పని)"
+        ],
+        "orderIndex": 2,
+        "estimatedMinutes": 45,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_lang2_en_english_t2_q1",
+            "question": "Which tense is used to express a universal truth?",
+            "questionTe": "సార్వత్రిక సత్యాన్ని (Universal truth) వ్యక్తపరచడానికి ఏ tense ఉపయోగిస్తారు?",
+            "options": [
+              "Simple Past",
+              "Present Continuous",
+              "Simple Present",
+              "Present Perfect"
+            ],
+            "optionsTe": [
+              "Simple Past",
+              "Present Continuous",
+              "Simple Present",
+              "Present Perfect"
+            ],
+            "correctIndex": 2,
+            "explanation": "Universal truths (e.g., 'The sun rises in the east') are always expressed in the Simple Present tense.",
+            "explanationTe": "సార్వత్రిక సత్యాలు (ఉదా: 'సూర్యుడు తూర్పున ఉదయిస్తాడు') ఎల్లప్పుడూ Simple Present tense లోనే వ్యక్తపరుస్తారు.",
+            "difficulty": "EASY",
+            "year": 2022,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_lang2_en_english_t2",
+            "subjectId": "tsdsc_sgt_lang2_en",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_lang2_en"
+      }
+    ]
+  },
+  {
+    "id": "tsdsc_sgt_math",
+    "examType": "TS_DSC",
+    "paperType": "SGT",
+    "name": "Mathematics",
+    "nameTe": "గణితం",
+    "iconRes": "ic_math",
+    "totalTopics": 2,
+    "totalQuestions": 2,
+    "orderIndex": 5,
+    "topics": [
+      {
+        "id": "tsdsc_sgt_math_maths_t1",
+        "title": "Number System",
+        "titleTe": "సంఖ్యా వ్యవస్థ",
+        "content": "The number system includes Natural numbers (N), Whole numbers (W), Integers (Z), Rational numbers (Q), and Real numbers (R). Prime numbers are numbers with only two factors: 1 and themselves.",
+        "contentTe": "సంఖ్యా వ్యవస్థలో సహజ సంఖ్యలు (N), పూర్ణాంకాలు (W), పూర్ణ సంఖ్యలు (Z), అకరణీయ సంఖ్యలు (Q) మరియు వాస్తవ సంఖ్యలు (R) ఉంటాయి. ప్రధాన సంఖ్యలు అంటే 1 మరియు అదే సంఖ్య మాత్రమే కారణాంకాలుగా కలిగిన సంఖ్యలు.",
+        "keyPoints": [
+          "Natural Numbers (N) = {1, 2, 3, ...}",
+          "Whole Numbers (W) = {0, 1, 2, 3, ...}",
+          "Integers (Z) = {..., -2, -1, 0, 1, 2, ...}",
+          "Smallest prime number is 2"
+        ],
+        "keyPointsTe": [
+          "సహజ సంఖ్యలు (N) = {1, 2, 3, ...}",
+          "పూర్ణాంకాలు (W) = {0, 1, 2, 3, ...}",
+          "పూర్ణ సంఖ్యలు (Z) = {..., -2, -1, 0, 1, 2, ...}",
+          "అతి చిన్న ప్రధాన సంఖ్య 2"
+        ],
+        "orderIndex": 1,
+        "estimatedMinutes": 35,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_math_maths_t1_q1",
+            "question": "Which of the following is the smallest prime number?",
+            "questionTe": "కింది వాటిలో అతి చిన్న ప్రధాన సంఖ్య ఏది?",
+            "options": [
+              "0",
+              "1",
+              "2",
+              "3"
+            ],
+            "optionsTe": [
+              "0",
+              "1",
+              "2",
+              "3"
+            ],
+            "correctIndex": 2,
+            "explanation": "2 is the smallest prime number and the only even prime number. 1 is neither prime nor composite.",
+            "explanationTe": "2 అనేది అతి చిన్న ప్రధాన సంఖ్య మరియు ఏకైక సరి ప్రధాన సంఖ్య. 1 ప్రధాన సంఖ్య కాదు, సంయుక్త సంఖ్య కాదు.",
+            "difficulty": "EASY",
+            "year": 2019,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_math_maths_t1",
+            "subjectId": "tsdsc_sgt_math",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_math"
+      },
+      {
+        "id": "tsdsc_sgt_math_maths_t2",
+        "title": "Geometry - Triangles",
+        "titleTe": "రేఖాగణితం - త్రిభుజాలు",
+        "content": "A triangle is a polygon with three edges and three vertices. The sum of the interior angles of a triangle is always 180 degrees.",
+        "contentTe": "త్రిభుజం అనేది మూడు భుజాలు మరియు మూడు శీర్షాలు కలిగిన బహుభుజి. త్రిభుజంలోని అంతర కోణాల మొత్తం ఎల్లప్పుడూ 180 డిగ్రీలు ఉంటుంది.",
+        "keyPoints": [
+          "Equilateral Triangle: All sides and angles are equal (60 degrees each)",
+          "Isosceles Triangle: Two sides and two angles are equal",
+          "Scalene Triangle: No sides or angles are equal",
+          "Right-angled Triangle: One angle is exactly 90 degrees"
+        ],
+        "keyPointsTe": [
+          "సమబాహు త్రిభుజం: అన్ని భుజాలు మరియు కోణాలు సమానం (ఒక్కొక్కటి 60 డిగ్రీలు)",
+          "సమద్విబాహు త్రిభుజం: రెండు భుజాలు మరియు రెండు కోణాలు సమానం",
+          "విషమబాహు త్రిభుజం: ఏ భుజాలు లేదా కోణాలు సమానం కావు",
+          "లంబకోణ త్రిభుజం: ఒక కోణం ఖచ్చితంగా 90 డిగ్రీలు ఉంటుంది"
+        ],
+        "orderIndex": 2,
+        "estimatedMinutes": 40,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_math_maths_t2_q1",
+            "question": "What is the sum of interior angles of a triangle?",
+            "questionTe": "త్రిభుజంలోని అంతర కోణాల మొత్తం ఎంత?",
+            "options": [
+              "90°",
+              "180°",
+              "270°",
+              "360°"
+            ],
+            "optionsTe": [
+              "90°",
+              "180°",
+              "270°",
+              "360°"
+            ],
+            "correctIndex": 1,
+            "explanation": "The sum of the three interior angles of any triangle is always 180 degrees.",
+            "explanationTe": "ఏ త్రిభుజంలోనైనా మూడు అంతర కోణాల మొత్తం ఎల్లప్పుడూ 180 డిగ్రీలు ఉంటుంది.",
+            "difficulty": "EASY",
+            "year": 2021,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_math_maths_t2",
+            "subjectId": "tsdsc_sgt_math",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_math"
+      }
+    ]
+  },
+  {
+    "id": "tsdsc_sgt_science",
+    "examType": "TS_DSC",
+    "paperType": "SGT",
+    "name": "General Science",
+    "nameTe": "సాధారణ విజ్ఞాన శాస్త్రం",
+    "iconRes": "ic_science",
+    "totalTopics": 2,
+    "totalQuestions": 2,
+    "orderIndex": 6,
+    "topics": [
+      {
+        "id": "tsdsc_sgt_science_science_t1",
+        "title": "The Living World (Plant & Animal Life)",
+        "titleTe": "జీవ ప్రపంచం (వృక్ష & జంతు జీవనం)",
+        "content": "Plants produce their own food through photosynthesis. Animals depend on plants or other animals for food. Ecosystems consist of biotic (living) and abiotic (non-living) components.",
+        "contentTe": "మొక్కలు కిరణజన్య సంయోగక్రియ ద్వారా తమ స్వంత ఆహారాన్ని తయారుచేసుకుంటాయి. జంతువులు ఆహారం కోసం మొక్కలు లేదా ఇతర జంతువులపై ఆధారపడతాయి. ఆవరణ వ్యవస్థలో జీవ (సజీవ) మరియు నిర్జీవ (ప్రాణం లేని) భాగాలు ఉంటాయి.",
+        "keyPoints": [
+          "Photosynthesis: Plants use sunlight, water, and CO2 to make food (Glucose)",
+          "Herbivores: Eat plants",
+          "Carnivores: Eat animals",
+          "Omnivores: Eat both"
+        ],
+        "keyPointsTe": [
+          "కిరణజన్య సంయోగక్రియ: మొక్కలు సూర్యరశ్మి, నీరు మరియు CO2 ని ఉపయోగించి ఆహారాన్ని (గ్లూకోజ్) తయారుచేస్తాయి",
+          "శాకాహారులు: మొక్కలను తింటాయి",
+          "మాంసాహారులు: జంతువులను తింటాయి",
+          "ఉభయాహారులు: రెండింటినీ తింటాయి"
+        ],
+        "orderIndex": 1,
+        "estimatedMinutes": 35,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_science_science_t1_q1",
+            "question": "Which gas is absorbed by plants during photosynthesis?",
+            "questionTe": "కిరణజన్య సంయోగక్రియ సమయంలో మొక్కలు ఏ వాయువును గ్రహిస్తాయి?",
+            "options": [
+              "Oxygen",
+              "Carbon Dioxide",
+              "Nitrogen",
+              "Hydrogen"
+            ],
+            "optionsTe": [
+              "ఆక్సిజన్",
+              "కార్బన్ డయాక్సైడ్",
+              "నైట్రోజన్",
+              "హైడ్రోజన్"
+            ],
+            "correctIndex": 1,
+            "explanation": "Plants absorb Carbon Dioxide (CO2) from the air and release Oxygen (O2) during photosynthesis.",
+            "explanationTe": "కిరణజన్య సంయోగక్రియ సమయంలో మొక్కలు గాలి నుండి కార్బన్ డయాక్సైడ్ (CO2) ను గ్రహించి ఆక్సిజన్ (O2) ను విడుదల చేస్తాయి.",
+            "difficulty": "EASY",
+            "year": 2022,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_science_science_t1",
+            "subjectId": "tsdsc_sgt_science",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_science"
+      },
+      {
+        "id": "tsdsc_sgt_science_science_t2",
+        "title": "Human Body - Digestive System",
+        "titleTe": "మానవ శరీరం - జీర్ణ వ్యవస్థ",
+        "content": "The digestive system breaks down food into nutrients. It includes the mouth, esophagus, stomach, small intestine, and large intestine.",
+        "contentTe": "జీర్ణ వ్యవస్థ ఆహారాన్ని పోషకాలుగా విచ్ఛిన్నం చేస్తుంది. ఇందులో నోరు, అన్నవాహిక, జీర్ణాశయం, చిన్న ప్రేగు మరియు పెద్ద ప్రేగు ఉంటాయి.",
+        "keyPoints": [
+          "Digestion begins in the mouth (saliva contains amylase)",
+          "Stomach secretes Hydrochloric acid (HCl) to kill bacteria",
+          "Small intestine is where most digestion and absorption occurs",
+          "Large intestine absorbs water"
+        ],
+        "keyPointsTe": [
+          "జీర్ణక్రియ నోటిలో ప్రారంభమవుతుంది (లాలాజలంలో అమైలేజ్ ఉంటుంది)",
+          "బ్యాక్టీరియాను చంపడానికి జీర్ణాశయం హైడ్రోక్లోరిక్ ఆమ్లం (HCl) ను స్రవిస్తుంది",
+          "చిన్న ప్రేగులోనే ఎక్కువ జీర్ణక్రియ మరియు శోషణ జరుగుతుంది",
+          "పెద్ద ప్రేగు నీటిని గ్రహిస్తుంది"
+        ],
+        "orderIndex": 2,
+        "estimatedMinutes": 40,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_science_science_t2_q1",
+            "question": "Where does the maximum absorption of digested food take place?",
+            "questionTe": "జీర్ణమైన ఆహారం యొక్క గరిష్ట శోషణ ఎక్కడ జరుగుతుంది?",
+            "options": [
+              "Stomach",
+              "Large Intestine",
+              "Small Intestine",
+              "Esophagus"
+            ],
+            "optionsTe": [
+              "జీర్ణాశయం",
+              "పెద్ద ప్రేగు",
+              "చిన్న ప్రేగు",
+              "అన్నవాహిక"
+            ],
+            "correctIndex": 2,
+            "explanation": "The small intestine has villi which increase surface area for maximum absorption of nutrients.",
+            "explanationTe": "చిన్న ప్రేగులో విల్లీ ఉంటాయి, ఇవి పోషకాలను గరిష్టంగా గ్రహించడానికి ఉపరితల వైశాల్యాన్ని పెంచుతాయి.",
+            "difficulty": "MEDIUM",
+            "year": 2018,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_science_science_t2",
+            "subjectId": "tsdsc_sgt_science",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_science"
+      }
+    ]
+  },
+  {
+    "id": "tsdsc_sgt_social",
+    "examType": "TS_DSC",
+    "paperType": "SGT",
+    "name": "Social Studies",
+    "nameTe": "సాంఘిక శాస్త్రం",
+    "iconRes": "ic_social",
+    "totalTopics": 2,
+    "totalQuestions": 2,
+    "orderIndex": 7,
+    "topics": [
+      {
+        "id": "tsdsc_sgt_social_social_common_t1",
+        "title": "Indian Polity - Constitution",
+        "titleTe": "భారత రాజ్యాంగం",
+        "content": "The Constitution of India is the supreme law of India. It was adopted on 26 November 1949 and came into effect on 26 January 1950.",
+        "contentTe": "భారత రాజ్యాంగం భారతదేశపు అత్యున్నత చట్టం. ఇది 1949 నవంబర్ 26న ఆమోదించబడింది మరియు 1950 జనవరి 26న అమలులోకి వచ్చింది.",
+        "keyPoints": [
+          "Dr. B.R. Ambedkar is the father of the Indian Constitution",
+          "Fundamental Rights are in Part III (Articles 12-35)",
+          "Directive Principles of State Policy are in Part IV"
+        ],
+        "keyPointsTe": [
+          "డాక్టర్ బి.ఆర్. అంబేద్కర్ భారత రాజ్యాంగ పితామహుడు",
+          "ప్రాథమిక హక్కులు IIIవ భాగంలో (ఆర్టికల్స్ 12-35) ఉన్నాయి",
+          "ఆదేశిక సూత్రాలు IVవ భాగంలో ఉన్నాయి"
+        ],
+        "orderIndex": 1,
+        "estimatedMinutes": 45,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_social_social_common_t1_q1",
+            "question": "In which part of the Indian Constitution are Fundamental Rights located?",
+            "questionTe": "భారత రాజ్యాంగంలోని ఏ భాగంలో ప్రాథమిక హక్కులు ఉన్నాయి?",
+            "options": [
+              "Part II",
+              "Part III",
+              "Part IV",
+              "Part V"
+            ],
+            "optionsTe": [
+              "భాగం II",
+              "భాగం III",
+              "భాగం IV",
+              "భాగం V"
+            ],
+            "correctIndex": 1,
+            "explanation": "Fundamental Rights are enshrined in Part III of the Constitution from Articles 12 to 35.",
+            "explanationTe": "ప్రాథమిక హక్కులు రాజ్యాంగంలోని IIIవ భాగంలో ఆర్టికల్స్ 12 నుండి 35 వరకు పొందుపరచబడ్డాయి.",
+            "difficulty": "EASY",
+            "year": 2018,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_social_social_common_t1",
+            "subjectId": "tsdsc_sgt_social",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_social"
+      },
+      {
+        "id": "tsdsc_sgt_social_social_ts_t1",
+        "title": "Telangana Movement & State Formation",
+        "titleTe": "తెలంగాణ ఉద్యమం & రాష్ట్ర ఆవిర్భావం",
+        "content": "The Telangana movement refers to a movement for the creation of a new state, Telangana, from the pre-existing state of Andhra Pradesh. The state was formed on 2 June 2014.",
+        "contentTe": "తెలంగాణ ఉద్యమం అనేది అప్పటి ఉమ్మడి ఆంధ్రప్రదేశ్ రాష్ట్రం నుండి తెలంగాణ అనే కొత్త రాష్ట్రాన్ని ఏర్పాటు చేయడానికి జరిగిన ఉద్యమం. జూన్ 2, 2014న రాష్ట్రం ఆవిర్భవించింది.",
+        "keyPoints": [
+          "Gentlemen's Agreement (1956) preceded the formation of AP",
+          "Jai Telangana Movement started in 1969",
+          "Telangana State Formation Day: June 2, 2014"
+        ],
+        "keyPointsTe": [
+          "AP ఆవిర్భావానికి ముందు పెద్దమనుషుల ఒప్పందం (1956) జరిగింది",
+          "జై తెలంగాణ ఉద్యమం 1969 లో ప్రారంభమైంది",
+          "తెలంగాణ రాష్ట్ర ఆవిర్భావ దినోత్సవం: జూన్ 2, 2014"
+        ],
+        "orderIndex": 2,
+        "estimatedMinutes": 50,
+        "questions": [
+          {
+            "id": "tsdsc_sgt_social_social_ts_t1_q1",
+            "question": "When was Telangana officially formed as the 29th state of India?",
+            "questionTe": "భారతదేశపు 29వ రాష్ట్రంగా తెలంగాణ అధికారికంగా ఎప్పుడు ఏర్పడింది?",
+            "options": [
+              "1 November 1956",
+              "2 June 2014",
+              "1 October 1953",
+              "1 March 2014"
+            ],
+            "optionsTe": [
+              "1 నవంబర్ 1956",
+              "2 జూన్ 2014",
+              "1 అక్టోబర్ 1953",
+              "1 మార్చి 2014"
+            ],
+            "correctIndex": 1,
+            "explanation": "Telangana became the 29th state of India on 2 June 2014.",
+            "explanationTe": "2 జూన్ 2014 న తెలంగాణ భారతదేశపు 29వ రాష్ట్రంగా ఆవిర్భవించింది.",
+            "difficulty": "EASY",
+            "year": 2022,
+            "isPreviousYear": true,
+            "topicId": "tsdsc_sgt_social_social_ts_t1",
+            "subjectId": "tsdsc_sgt_social",
+            "examType": "TS_DSC"
+          }
+        ],
+        "subjectId": "tsdsc_sgt_social"
+      }
+    ]
+  }
+]
