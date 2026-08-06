@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "updatedAt": "2026-08-06T13:14:47Z",
+  "files": [
+    {
+      "path": "subjects/AP_DSC/PD.json",
+      "examType": "AP_DSC",
+      "paperType": "PD",
+      "checksum": "7c93cfea1e22dbda60c538c508953d1a",
+      "size": 19059
+    },
+    {
+      "path": "subjects/AP_DSC/PET.json",
+      "examType": "AP_DSC",
+      "paperType": "PET",
+      "checksum": "d2c46435fef6499edc56b4a99f4460b2",
+      "size": 19100
+    },
+    {
+      "path": "subjects/AP_DSC/SA.json",
+      "examType": "AP_DSC",
+      "paperType": "SA",
+      "checksum": "ae95e331d9a7974ebd27d2b18b775af9",
+      "size": 57219
+    },
+    {
+      "path": "subjects/AP_DSC/SGT.json",
+      "examType": "AP_DSC",
+      "paperType": "SGT",
+      "checksum": "8559e637b5ceccdff25c5947a302238f",
+      "size": 49806
+    },
+    {
+      "path": "subjects/AP_TET/PAPER_1.json",
+      "examType": "AP_TET",
+      "paperType": "PAPER_1",
+      "checksum": "a0c6199b774a8cb74f0c581cd1dd47aa",
+      "size": 42470
+    },
+    {
+      "path": "subjects/AP_TET/PAPER_2.json",
+      "examType": "AP_TET",
+      "paperType": "PAPER_2",
+      "checksum": "9d626c274e6b94d9f761fddd5e30fc4b",
+      "size": 41621
+    },
+    {
+      "path": "subjects/TS_DSC/PD.json",
+      "examType": "TS_DSC",
+      "paperType": "PD",
+      "checksum": "f5f0cb935b16da857b270b5e1b4cfdaa",
+      "size": 19059
+    },
+    {
+      "path": "subjects/TS_DSC/PET.json",
+      "examType": "TS_DSC",
+      "paperType": "PET",
+      "checksum": "24acb202ade0d50c83d612cf6906e693",
+      "size": 19100
+    },
+    {
+      "path": "subjects/TS_DSC/SA.json",
+      "examType": "TS_DSC",
+      "paperType": "SA",
+      "checksum": "6d7868d64d6acd7272f1ed8ed76ff3e4",
+      "size": 57238
+    },
+    {
+      "path": "subjects/TS_DSC/SGT.json",
+      "examType": "TS_DSC",
+      "paperType": "SGT",
+      "checksum": "14f60ee9810aa86bedfe4df75c73bf1e",
+      "size": 49825
+    },
+    {
+      "path": "subjects/TS_TET/PAPER_1.json",
+      "examType": "TS_TET",
+      "paperType": "PAPER_1",
+      "checksum": "44b9611e545ae962019987993f66a12e",
+      "size": 42470
+    },
+    {
+      "path": "subjects/TS_TET/PAPER_2.json",
+      "examType": "TS_TET",
+      "paperType": "PAPER_2",
+      "checksum": "e59acaa22fb294455f6bf2afbf5fb7eb",
+      "size": 41640
+    }
+  ]
+}
