@@ -67,155 +67,422 @@
     "name": "Perspectives in Education",
     "nameTe": "విద్యా దృక్పథాలు",
     "iconRes": "ic_pie",
-    "totalTopics": 3,
-    "totalQuestions": 3,
+    "totalTopics": 6,
+    "totalQuestions": 11,
     "orderIndex": 2,
     "topics": [
       {
-        "id": "apdsc_pd_pie_pie_t1",
-        "title": "History of Education in India",
-        "titleTe": "భారతదేశంలో విద్యా చరిత్ర",
-        "content": "Education in India has evolved from the Vedic period (Gurukula system) to Buddhist education, Islamic education, and modern British policies like Macaulay's Minute (1835) and Wood's Despatch (1854).",
-        "contentTe": "భారతదేశంలో విద్య వేద కాలం (గురుకుల వ్యవస్థ) నుండి బౌద్ధ విద్య, ఇస్లామిక్ విద్య మరియు మెకాలే మినిట్ (1835) మరియు వుడ్స్ డెస్పాచ్ (1854) వంటి ఆధునిక బ్రిటిష్ విధానాల వరకు అభివృద్ధి చెందింది.",
+        "id": "cdp_full_AP_DSC_cdp_t1",
+        "title": "Growth, Development, and Maturation",
+        "titleTe": "పెరుగుదల, వికాసం మరియు పరిపక్వత",
+        "content": "Child development involves the biological, psychological, and emotional changes that occur between birth and adolescence. \n\n1. Growth (పెరుగుదల): It refers to structural and physiological changes. It is quantitative (పరిమాణాత్మకమైనది) and measurable (e.g., height, weight). Growth stops when maturity is attained.\n\n2. Development (వికాసం): It refers to overall changes in shape, form, or structure resulting in improved working or functioning. It is both quantitative and qualitative (గుణాత్మకమైనది). Development is a continuous, lifelong process (జీవితకాల ప్రక్రియ).\n\n3. Maturation (పరిపక్వత): It is the unfolding of characteristics potentially present in the individual that come from the individual's genetic endowment.",
+        "contentTe": "శిశు వికాసం అనేది పుట్టుక నుండి కౌమారదశ వరకు జరిగే జీవశాస్త్రపరమైన, మానసిక మరియు ఉద్వేగపరమైన మార్పులను తెలుపుతుంది.\n\n1. పెరుగుదల (Growth): శారీరక నిర్మాణంలో వచ్చే మార్పులను పెరుగుదల అంటారు. ఇది పరిమాణాత్మకమైనది (Quantitative) మరియు కొలవదగినది (ఉదా: ఎత్తు, బరువు). పరిపక్వత సాధించాక పెరుగుదల ఆగిపోతుంది.\n\n2. వికాసం (Development): వ్యక్తిలో జరిగే సమగ్ర మార్పులను వికాసం అంటారు. ఇది పరిమాణాత్మక మరియు గుణాత్మకమైనది (Qualitative). వికాసం ఒక నిరంతర జీవితకాల ప్రక్రియ (Lifelong process).\n\n3. పరిపక్వత (Maturation): జన్యుపరంగా సంక్రమించిన అంతర్గత శక్తులు వయసుతో పాటు దానంతట అవే వికసించడాన్ని పరిపక్వత అంటారు. దీనికి శిక్షణ అవసరం లేదు.",
         "keyPoints": [
-          "Vedic Education: Focus on spiritual growth",
-          "Macaulay's Minute (1835): Introduced English education",
-          "Wood's Despatch (1854): Magna Carta of Indian Education"
+          "Growth is quantitative; Development is both quantitative and qualitative.",
+          "Growth is restricted to physical aspects; Development encompasses physical, mental, social, and emotional aspects.",
+          "Development = Growth + Maturation + Learning",
+          "Maturation sets limits to development; it does not require training."
         ],
         "keyPointsTe": [
-          "వేద విద్య: ఆధ్యాత్మిక వృద్ధిపై దృష్టి",
-          "మెకాలే మినిట్ (1835): ఆంగ్ల విద్యను ప్రవేశపెట్టింది",
-          "వుడ్స్ డెస్పాచ్ (1854): భారతీయ విద్య యొక్క మాగ్నాకార్టా"
+          "పెరుగుదల పరిమాణాత్మకమైనది; వికాసం పరిమాణాత్మక మరియు గుణాత్మకమైనది.",
+          "పెరుగుదల కేవలం శారీరక మార్పులకే పరిమితం; వికాసం అనేది శారీరక, మానసిక, సాంఘిక, ఉద్వేగ కోణాలను కలిగి ఉంటుంది.",
+          "వికాసం అనేది ఒక నిరంతర ప్రక్రియ. పరిపక్వత ఒక నిర్దిష్ట దశలో ఆగిపోతుంది.",
+          "పరిపక్వతకు శిక్షణ, అభ్యసనం అవసరం లేదు."
         ],
         "orderIndex": 1,
-        "estimatedMinutes": 35,
+        "estimatedMinutes": 45,
         "questions": [
           {
-            "id": "apdsc_pd_pie_pie_t1_q1",
-            "question": "Which document is called the 'Magna Carta' of Indian Education?",
-            "questionTe": "భారతీయ విద్య యొక్క 'మాగ్నాకార్టా' అని ఏ పత్రాన్ని పిలుస్తారు?",
+            "id": "cdp_full_AP_DSC_cdp_t1_q1",
+            "question": "Which of the following is true about development?",
+            "questionTe": "వికాసానికి సంబంధించి కింది వాటిలో సరైనది ఏది?",
             "options": [
-              "Macaulay's Minute",
-              "Wood's Despatch",
-              "Hunter Commission",
-              "Sadler Commission"
+              "It is only quantitative",
+              "It is only qualitative",
+              "It is both quantitative and qualitative",
+              "It stops at maturity"
             ],
             "optionsTe": [
-              "మెకాలే మినిట్",
-              "వుడ్స్ డెస్పాచ్",
-              "హంటర్ కమిషన్",
-              "సాడ్లర్ కమిషన్"
+              "ఇది కేవలం పరిమాణాత్మకమైనది",
+              "ఇది కేవలం గుణాత్మకమైనది",
+              "ఇది పరిమాణాత్మక మరియు గుణాత్మకమైనది",
+              "పరిపక్వత దశ రాగానే ఇది ఆగిపోతుంది"
             ],
-            "correctIndex": 1,
-            "explanation": "Wood's Despatch of 1854 is considered the Magna Carta of English Education in India.",
-            "explanationTe": "1854 నాటి వుడ్స్ డెస్పాచ్‌ను భారతదేశంలో ఆంగ్ల విద్య యొక్క మాగ్నాకార్టాగా పరిగణిస్తారు.",
+            "correctIndex": 2,
+            "explanation": "Development is a comprehensive term that includes both quantitative changes (like growth) and qualitative changes (like intelligence and maturity).",
+            "explanationTe": "వికాసం అనేది ఒక సమగ్ర భావన. ఇందులో పరిమాణాత్మక మార్పులు (పెరుగుదల) మరియు గుణాత్మక మార్పులు (బుద్ధి, సామర్థ్యాలు) రెండూ ఇమిడి ఉంటాయి.",
             "difficulty": "EASY",
             "year": 2018,
             "isPreviousYear": true,
-            "topicId": "apdsc_pd_pie_pie_t1",
-            "subjectId": "apdsc_pd_pie",
+            "topicId": "cdp_full_AP_DSC_cdp_t1",
             "examType": "AP_DSC"
-          }
-        ],
-        "subjectId": "apdsc_pd_pie"
-      },
-      {
-        "id": "apdsc_pd_pie_pie_t2",
-        "title": "National Education Policy (NEP) 2020",
-        "titleTe": "జాతీయ విద్యా విధానం (NEP) 2020",
-        "content": "NEP 2020 aims to transform India's education system. It replaces the 10+2 structure with a 5+3+3+4 design covering ages 3 to 18.",
-        "contentTe": "NEP 2020 భారతదేశ విద్యా వ్యవస్థను మార్చడం లక్ష్యంగా పెట్టుకుంది. ఇది 3 నుండి 18 సంవత్సరాల వయస్సును కవర్ చేస్తూ 10+2 నిర్మాణాన్ని 5+3+3+4 డిజైన్‌తో భర్తీ చేస్తుంది.",
-        "keyPoints": [
-          "5+3+3+4 Curriculum structure",
-          "Foundational literacy and numeracy (FLN) by Grade 3",
-          "Mother tongue as medium of instruction till Grade 5",
-          "Holistic multidisciplinary education"
-        ],
-        "keyPointsTe": [
-          "5+3+3+4 పాఠ్యాంశాల నిర్మాణం",
-          "గ్రేడ్ 3 నాటికి ఫౌండేషనల్ లిటరసీ మరియు న్యూమరసీ (FLN)",
-          "గ్రేడ్ 5 వరకు మాతృభాష బోధనా మాధ్యమంగా",
-          "సంపూర్ణ బహుళవిజ్ఞాన విద్య"
-        ],
-        "orderIndex": 2,
-        "estimatedMinutes": 40,
-        "questions": [
+          },
           {
-            "id": "apdsc_pd_pie_pie_t2_q1",
-            "question": "What is the new pedagogical structure proposed by NEP 2020?",
-            "questionTe": "NEP 2020 ప్రతిపాదించిన కొత్త బోధనా నిర్మాణం ఏమిటి?",
+            "id": "cdp_full_AP_DSC_cdp_t1_q2",
+            "question": "Changes in height and weight of a child can be categorized as:",
+            "questionTe": "పిల్లల ఎత్తు, బరువులలో వచ్చే మార్పులను ఇలా వర్గీకరించవచ్చు:",
             "options": [
-              "10 + 2",
-              "5 + 3 + 3 + 4",
-              "8 + 4 + 3",
-              "5 + 5 + 4"
+              "Development",
+              "Growth",
+              "Maturation",
+              "Learning"
             ],
             "optionsTe": [
-              "10 + 2",
-              "5 + 3 + 3 + 4",
-              "8 + 4 + 3",
-              "5 + 5 + 4"
+              "వికాసం",
+              "పెరుగుదల",
+              "పరిపక్వత",
+              "అభ్యసనం"
             ],
             "correctIndex": 1,
-            "explanation": "NEP 2020 replaces the 10+2 structure with a 5+3+3+4 structure.",
-            "explanationTe": "NEP 2020 10+2 నిర్మాణాన్ని 5+3+3+4 నిర్మాణంతో భర్తీ చేస్తుంది.",
+            "explanation": "Measurable physical changes such as height, weight, and size are called Growth.",
+            "explanationTe": "కొలవడానికి వీలైన భౌతిక/శారీరక మార్పులైన ఎత్తు, బరువు, పరిమాణాన్ని పెరుగుదల అంటారు.",
             "difficulty": "EASY",
-            "year": 2023,
-            "isPreviousYear": true,
-            "topicId": "apdsc_pd_pie_pie_t2",
-            "subjectId": "apdsc_pd_pie",
-            "examType": "AP_DSC"
-          }
-        ],
-        "subjectId": "apdsc_pd_pie"
-      },
-      {
-        "id": "apdsc_pd_pie_pie_t3",
-        "title": "Inclusive Education",
-        "titleTe": "సమ్మిళిత విద్య",
-        "content": "Inclusive education means all children, regardless of their physical, intellectual, social, emotional, or linguistic conditions, learn together in the same classroom.",
-        "contentTe": "సమ్మిళిత విద్య అంటే పిల్లలందరూ, వారి శారీరక, మేధో, సామాజిక, భావోద్వేగ లేదా భాషా పరిస్థితులతో సంబంధం లేకుండా, ఒకే తరగతి గదిలో కలిసి నేర్చుకోవడం.",
-        "keyPoints": [
-          "Rights of Persons with Disabilities (RPWD) Act 2016",
-          "Addresses special educational needs (SEN)",
-          "Promotes equity and eliminates discrimination"
-        ],
-        "keyPointsTe": [
-          "వికలాంగుల హక్కుల (RPWD) చట్టం 2016",
-          "ప్రత్యేక విద్యా అవసరాలను (SEN) పరిష్కరిస్తుంది",
-          "సమానత్వాన్ని ప్రోత్సహిస్తుంది మరియు వివక్షను తొలగిస్తుంది"
-        ],
-        "orderIndex": 3,
-        "estimatedMinutes": 30,
-        "questions": [
-          {
-            "id": "apdsc_pd_pie_pie_t3_q1",
-            "question": "Inclusive Education primarily focuses on:",
-            "questionTe": "సమ్మిళిత విద్య ప్రధానంగా దేనిపై దృష్టి పెడుతుంది?",
-            "options": [
-              "Only gifted children",
-              "Only disabled children",
-              "Integrating all children in mainstream schools",
-              "Special schools for special needs"
-            ],
-            "optionsTe": [
-              "ప్రతిభావంతులైన పిల్లలు మాత్రమే",
-              "వికలాంగ పిల్లలు మాత్రమే",
-              "పిల్లలందరినీ ప్రధాన స్రవంతి పాఠశాలల్లో కలపడం",
-              "ప్రత్యేక అవసరాల కోసం ప్రత్యేక పాఠశాలలు"
-            ],
-            "correctIndex": 2,
-            "explanation": "Inclusive education emphasizes accommodating every child in mainstream general education.",
-            "explanationTe": "సమ్మిళిత విద్య ప్రతి బిడ్డను ప్రధాన స్రవంతి సాధారణ విద్యలో చేర్చడాన్ని నొక్కి చెబుతుంది.",
-            "difficulty": "MEDIUM",
             "year": 2022,
             "isPreviousYear": true,
-            "topicId": "apdsc_pd_pie_pie_t3",
-            "subjectId": "apdsc_pd_pie",
+            "topicId": "cdp_full_AP_DSC_cdp_t1",
+            "examType": "AP_DSC"
+          },
+          {
+            "id": "cdp_full_AP_DSC_cdp_t1_q3",
+            "question": "Which of the following does not require training or practice?",
+            "questionTe": "కింది వాటిలో దేనికి శిక్షణ లేదా సాధన అవసరం లేదు?",
+            "options": [
+              "Learning",
+              "Development",
+              "Maturation",
+              "Skill acquisition"
+            ],
+            "optionsTe": [
+              "అభ్యసనం",
+              "వికాసం",
+              "పరిపక్వత",
+              "నైపుణ్య సాధన"
+            ],
+            "correctIndex": 2,
+            "explanation": "Maturation is an automatic, biologically driven unfolding of genetic potential, so it does not require external training.",
+            "explanationTe": "పరిపక్వత అనేది జన్యుపరంగా స్వాభావికంగా జరిగే ప్రక్రియ, కాబట్టి దీనికి ఎలాంటి బాహ్య శిక్షణ అవసరం లేదు.",
+            "difficulty": "MEDIUM",
+            "year": 2019,
+            "isPreviousYear": true,
+            "topicId": "cdp_full_AP_DSC_cdp_t1",
             "examType": "AP_DSC"
           }
+        ]
+      },
+      {
+        "id": "cdp_full_AP_DSC_cdp_t2",
+        "title": "Principles of Development",
+        "titleTe": "వికాస సూత్రాలు",
+        "content": "Understanding the principles of development helps teachers cater to individual needs.\n\n1. Principle of Continuity (నిరంతర వికాస సూత్రం): Development is a continuous process from womb to tomb.\n2. Principle of Individual Differences (వ్యక్తిగత భేదాల సూత్రం): Every child develops at their own unique pace.\n3. Principle of Predictability (వికాసాన్ని అంచనా వేయవచ్చు): Based on the current rate of development, future development can be predicted.\n4. Principle of Direction (వికాస దిశా నియమం): \n   a. Cephalocaudal trend (శిరః పాదాభిముఖ వికాసం): Development proceeds from head to toe.\n   b. Proximodistal trend (సమీప దూరస్థ వికాసం): Development proceeds from the center of the body outward.\n5. Principle of Integration (సమగ్ర/సమైక్య వికాస సూత్రం): Development proceeds from general to specific responses, and these specific responses are later integrated.\n6. Principle of Interrelation (పరస్పర సంబంధ సూత్రం): Physical, mental, social, and emotional developments are highly interrelated.",
+        "contentTe": "వికాస సూత్రాలను అర్థం చేసుకోవడం ద్వారా ఉపాధ్యాయులు విద్యార్థుల అవసరాలను సులభంగా తీర్చగలరు.\n\n1. నిరంతర వికాస సూత్రం (Principle of Continuity): వికాసం తల్లి గర్భం నుండి మరణం వరకు నిరంతరం కొనసాగుతుంది.\n2. వ్యక్తిగత భేదాల సూత్రం (Individual Differences): ప్రతి శిశువు తమదైన ప్రత్యేక వేగంతో వికాసం చెందుతాడు.\n3. వికాసాన్ని అంచనా వేయవచ్చు (Predictability): ప్రస్తుత వికాస వేగాన్ని బట్టి భవిష్యత్తులో వారి వికాసాన్ని ఊహించవచ్చు.\n4. వికాస దిశా నియమం (Principle of Direction): \n   a. శిరః పాదాభిముఖ వికాసం (Cephalocaudal): వికాసం తల నుండి పాదాల వైపుకు జరుగుతుంది.\n   b. సమీప దూరస్థ వికాసం (Proximodistal): వికాసం శరీర కేంద్రం నుండి వెలుపలి భాగాలకు జరుగుతుంది.\n5. సమైక్య వికాస సూత్రం (Integration): వికాసం సాధారణం నుండి నిర్దిష్ట ప్రతిస్పందనలకు వెళుతుంది, ఆ తర్వాత అవన్నీ సమైక్యం చేయబడతాయి.\n6. పరస్పర సంబంధ సూత్రం (Interrelation): శారీరక, మానసిక, సాంఘిక, ఉద్వేగ వికాసాలు ఒకదానికొకటి బలంగా ముడిపడి ఉంటాయి.",
+        "keyPoints": [
+          "Development follows a fixed pattern and sequence (నమూనాను పాటిస్తుంది).",
+          "Development proceeds from General to Specific (సాధారణం నుండి నిర్దిష్టానికి).",
+          "Development is a product of Heredity and Environment (H x E).",
+          "Cephalocaudal: Head to toe. Proximodistal: Center to extremities."
         ],
-        "subjectId": "apdsc_pd_pie"
+        "keyPointsTe": [
+          "వికాసం ఒక నిర్దిష్ట నమూనాను (క్రమాన్ని) పాటిస్తుంది.",
+          "వికాసం సాధారణ ప్రతిస్పందనల నుండి నిర్దిష్ట ప్రతిస్పందనల వైపు సాగుతుంది.",
+          "వికాసం అనేది అనువంశికత మరియు పరిసరాల ప్రతిఫలం (వికాసం = అనువంశికత x పరిసరాలు).",
+          "శిరః పాదాభిముఖ: తల నుండి పాదాలకు. సమీప దూరస్థ: కేంద్రం నుండి చివరలకు."
+        ],
+        "orderIndex": 2,
+        "estimatedMinutes": 50,
+        "questions": [
+          {
+            "id": "cdp_full_AP_DSC_cdp_t2_q1",
+            "question": "A child first gains control over their head, then arms, and finally legs. This illustrates which principle of development?",
+            "questionTe": "ఒక శిశువు ముందుగా తల మీద, తర్వాత చేతుల మీద, చివరగా కాళ్ళ మీద నియంత్రణ సాధిస్తాడు. ఇది ఏ వికాస సూత్రాన్ని వివరిస్తుంది?",
+            "options": [
+              "Proximodistal sequence",
+              "Cephalocaudal sequence",
+              "Principle of integration",
+              "Principle of individual differences"
+            ],
+            "optionsTe": [
+              "సమీప దూరస్థ వికాసం",
+              "శిరః పాదాభిముఖ వికాసం",
+              "సమైక్య వికాస సూత్రం",
+              "వ్యక్తిగత భేదాల సూత్రం"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Cephalocaudal principle dictates that development progresses longitudinally from head to toe.",
+            "explanationTe": "శిరః పాదాభిముఖ వికాస సూత్రం ప్రకారం, వికాసం నిలువుగా తల నుండి పాదాల వైపుగా (పైనుండి కిందకు) జరుగుతుంది.",
+            "difficulty": "EASY",
+            "year": 2021,
+            "isPreviousYear": true,
+            "topicId": "cdp_full_AP_DSC_cdp_t2",
+            "examType": "AP_DSC"
+          },
+          {
+            "id": "cdp_full_AP_DSC_cdp_t2_q2",
+            "question": "A teacher predicting that a child excelling in maths will also excel in physics is using which principle?",
+            "questionTe": "గణితంలో ప్రతిభ చూపే విద్యార్థి భౌతికశాస్త్రంలో కూడా రాణిస్తాడని ఉపాధ్యాయుడు ఊహించడం ఏ సూత్రం?",
+            "options": [
+              "Principle of interrelation",
+              "Principle of continuity",
+              "Principle of predictability",
+              "Principle of direction"
+            ],
+            "optionsTe": [
+              "పరస్పర సంబంధ సూత్రం",
+              "నిరంతర వికాస సూత్రం",
+              "వికాసాన్ని అంచనా వేయవచ్చు",
+              "వికాస దిశా నియమం"
+            ],
+            "correctIndex": 2,
+            "explanation": "Because development is predictable, early signs of aptitude can be used to forecast future capabilities.",
+            "explanationTe": "వికాసాన్ని అంచనా వేయవచ్చు అనే సూత్రం ద్వారా ప్రస్తుత సామర్థ్యాలను బట్టి భవిష్యత్తు సామర్థ్యాలను ఊహించవచ్చు.",
+            "difficulty": "MEDIUM",
+            "year": 2018,
+            "isPreviousYear": true,
+            "topicId": "cdp_full_AP_DSC_cdp_t2",
+            "examType": "AP_DSC"
+          }
+        ]
+      },
+      {
+        "id": "cdp_full_AP_DSC_cdp_t3",
+        "title": "Stages of Development",
+        "titleTe": "వికాస దశలు",
+        "content": "Childhood is divided into distinct stages with unique characteristics:\n\n1. Infancy (శైశవ దశ: 0-2 Years): Rapid physical growth. Learns through senses. Characterized by sensory-motor skills.\n2. Early Childhood (తొలి బాల్య దశ: 2-6 Years): Pre-school age, toy age, questioning age. Rapid language development and highly active imagination. Very egocentric.\n3. Later Childhood (ఉత్తర బాల్య దశ: 6-12 Years): Gang age, elementary school age. Increased social skills, peer influence, and logical thinking (concrete).\n4. Adolescence (కౌమార దశ: 12-18 Years): Period of stress and storm (Stanly Hall). Rapid hormonal changes, search for identity, hero worship, abstract thinking, and emotional instability.",
+        "contentTe": "బాల్యం వివిధ దశలుగా విభజించబడింది, ఒక్కో దశకు ప్రత్యేక లక్షణాలు ఉంటాయి:\n\n1. శైశవ దశ (Infancy: 0-2 సం||): వేగవంతమైన శారీరక పెరుగుదల. జ్ఞానేంద్రియాల ద్వారా నేర్చుకుంటారు.\n2. తొలి బాల్య దశ (Early Childhood: 2-6 సం||): పూర్వ పాఠశాల దశ, బొమ్మల వయస్సు, ప్రశ్నించే వయస్సు. భాషా వికాసం అత్యంత వేగంగా జరుగుతుంది. అహంకేంద్రవాదం ఎక్కువగా ఉంటుంది.\n3. ఉత్తర బాల్య దశ (Later Childhood: 6-12 సం||): ముఠా దశ (Gang age), ప్రాథమిక పాఠశాల దశ. సాంఘిక నైపుణ్యాలు పెరుగుతాయి, మిత్రుల ప్రభావం ఎక్కువ, తార్కిక ఆలోచన (మూర్త) మొదలవుతుంది.\n4. కౌమార దశ (Adolescence: 12-18 సం||): ఒత్తిడి మరియు తుఫానుల దశ (స్టాన్లీ హాల్). వేగవంతమైన హార్మోన్ల మార్పులు, గుర్తింపు కోసం అన్వేషణ, వీరారాధన (Hero worship), అమూర్త ఆలోచన మరియు ఉద్వేగ అస్థిరత ఉంటాయి.",
+        "keyPoints": [
+          "Toy Age: Early Childhood (2-6 years)",
+          "Gang Age: Later Childhood (6-12 years)",
+          "Adolescence is the most critical stage for identity formation.",
+          "Language development is most rapid during Early Childhood."
+        ],
+        "keyPointsTe": [
+          "బొమ్మల వయస్సు (Toy Age): తొలి బాల్య దశ (2-6 సంవత్సరాలు)",
+          "ముఠా దశ (Gang Age): ఉత్తర బాల్య దశ (6-12 సంవత్సరాలు)",
+          "స్వయం గుర్తింపు (Identity) సాధించడానికి కౌమార దశ అత్యంత కీలకమైనది.",
+          "తొలి బాల్య దశలో భాషా వికాసం అత్యంత వేగంగా జరుగుతుంది."
+        ],
+        "orderIndex": 3,
+        "estimatedMinutes": 60,
+        "questions": [
+          {
+            "id": "cdp_full_AP_DSC_cdp_t3_q1",
+            "question": "Which of the following stages is famously called the 'Gang Age'?",
+            "questionTe": "కింది వికాస దశలలో దేనిని ప్రసిద్ధంగా 'ముఠా దశ' (Gang Age) అని పిలుస్తారు?",
+            "options": [
+              "Infancy",
+              "Early Childhood",
+              "Later Childhood",
+              "Adolescence"
+            ],
+            "optionsTe": [
+              "శైశవ దశ",
+              "తొలి బాల్య దశ",
+              "ఉత్తర బాల్య దశ",
+              "కౌమార దశ"
+            ],
+            "correctIndex": 2,
+            "explanation": "During later childhood (6-12 years), children form peer groups or 'gangs' and give immense importance to group rules.",
+            "explanationTe": "ఉత్తర బాల్య దశలో (6-12 సం||) పిల్లలు తమ మిత్రులతో కలిసి ముఠాలుగా ఏర్పడతారు మరియు సమూహ నియమాలకు అత్యధిక ప్రాధాన్యత ఇస్తారు.",
+            "difficulty": "EASY",
+            "year": 2019,
+            "isPreviousYear": true,
+            "topicId": "cdp_full_AP_DSC_cdp_t3",
+            "examType": "AP_DSC"
+          },
+          {
+            "id": "cdp_full_AP_DSC_cdp_t3_q2",
+            "question": "Who stated that Adolescence is a period of 'stress and storm'?",
+            "questionTe": "కౌమార దశను 'ఒత్తిడి మరియు తుఫానుల దశ' అని వర్ణించింది ఎవరు?",
+            "options": [
+              "Jean Piaget",
+              "G. Stanley Hall",
+              "Lev Vygotsky",
+              "Sigmund Freud"
+            ],
+            "optionsTe": [
+              "జీన్ పియాజె",
+              "జి. స్టాన్లీ హాల్",
+              "లెవ్ వైగోట్స్కీ",
+              "సిగ్మండ్ ఫ్రాయిడ్"
+            ],
+            "correctIndex": 1,
+            "explanation": "G. Stanley Hall coined the phrase 'storm and stress' to describe the turbulent emotional experiences of adolescence.",
+            "explanationTe": "జి. స్టాన్లీ హాల్ కౌమార దశలోని భావోద్వేగ అస్థిరతను వర్ణించడానికి 'ఒత్తిడి మరియు తుఫాను' (storm and stress) అనే పదాన్ని ఉపయోగించారు.",
+            "difficulty": "EASY",
+            "year": 2022,
+            "isPreviousYear": true,
+            "topicId": "cdp_full_AP_DSC_cdp_t3",
+            "examType": "AP_DSC"
+          }
+        ]
+      },
+      {
+        "id": "cdp_full_AP_DSC_cdp_t4",
+        "title": "Major Theories: Jean Piaget's Cognitive Development",
+        "titleTe": "ప్రధాన సిద్ధాంతాలు: జీన్ పియాజె సంజ్ఞానాత్మక వికాసం",
+        "content": "Jean Piaget, a Swiss psychologist, proposed that children actively construct knowledge as they manipulate and explore their world.\n\nKey Concepts:\n- Schema (స్కీమా): Basic building block of intelligent behavior (Mental structures).\n- Assimilation (సాంశీకరణం): Incorporating new information into existing schemas.\n- Accommodation (అనుగుణ్యం): Modifying existing schemas to fit new information.\n\nFour Stages of Cognitive Development:\n1. Sensorimotor Stage (ఇంద్రియ చాలక దశ: 0-2 yrs): Object permanence (వస్తు స్థిరత్వ భావన) is developed.\n2. Pre-operational Stage (పూర్వ ప్రకోప దశ: 2-7 yrs): Egocentrism (అహంకేంద్రవాదం), Animism (సర్వాత్మకవాదం), Lack of Conservation (పదిలపరచుకునే భావన లోపం).\n3. Concrete Operational Stage (మూర్త ప్రకోప దశ: 7-11 yrs): Logical thinking begins but only for concrete physical objects. Reversibility (విలోమత్వం) and Conservation are achieved.\n4. Formal Operational Stage (అమూర్త ప్రకోప దశ: 11+ yrs): Abstract thinking (అమూర్త ఆలోచన), hypothetical-deductive reasoning.",
+        "contentTe": "స్విట్జర్లాండ్‌కు చెందిన జీన్ పియాజె అభిప్రాయం ప్రకారం, పిల్లలు తమ పరిసరాలను అన్వేషించడం ద్వారా స్వయంగా జ్ఞానాన్ని నిర్మించుకుంటారు.\n\nకీలక భావనలు:\n- స్కీమా (Schema): మెదడులో ఏర్పడే జ్ఞాన నిర్మాణాలు లేదా మానసిక నిర్మాణాలు.\n- సాంశీకరణం (Assimilation): కొత్త సమాచారాన్ని పాత స్కీమాలకు జతచేసుకోవడం.\n- అనుగుణ్యం (Accommodation): కొత్త సమాచారానికి అనుగుణంగా పాత స్కీమాలను మార్చుకోవడం.\n\nసంజ్ఞానాత్మక వికాసంలోని నాలుగు దశలు:\n1. ఇంద్రియ చాలక దశ (0-2 సం||): జ్ఞానేంద్రియాల ద్వారా నేర్చుకుంటారు. వస్తు స్థిరత్వ భావన (Object permanence) ఏర్పడుతుంది.\n2. పూర్వ ప్రకోప దశ (2-7 సం||): అహంకేంద్రవాదం (తాను అనుకున్నదే కరెక్ట్ అనుకోవడం), సర్వాత్మకవాదం (ప్రాణం లేని వాటికి ప్రాణం ఆపాదించడం), పదిలపరచుకునే భావన లోపం ఉంటాయి.\n3. మూర్త ప్రకోప దశ (7-11 సం||): కంటికి కనిపించే (మూర్త) వస్తువుల మీద తార్కిక ఆలోచన మొదలవుతుంది. విలోమత్వం (Reversibility), పదిలపరచుకునే భావన వస్తాయి.\n4. అమూర్త ప్రకోప దశ (11+ సం||): కంటికి కనిపించని (అమూర్త) విషయాలపై ఆలోచనా శక్తి, పరికల్పనాత్మక-నిగమన తార్కికత ఏర్పడతాయి.",
+        "keyPoints": [
+          "Object Permanence is achieved in the Sensorimotor stage.",
+          "Egocentrism and Animism are key features of the Pre-operational stage.",
+          "Conservation and Reversibility are achieved in the Concrete Operational stage.",
+          "Abstract reasoning is the hallmark of the Formal Operational stage."
+        ],
+        "keyPointsTe": [
+          "ఇంద్రియ చాలక దశలో వస్తు స్థిరత్వ భావన (Object Permanence) ఏర్పడుతుంది.",
+          "అహంకేంద్రవాదం మరియు సర్వాత్మకవాదం పూర్వ ప్రకోప దశ యొక్క ప్రధాన లక్షణాలు.",
+          "మూర్త ప్రకోప దశలో పదిలపరచుకునే భావన మరియు విలోమత్వం సాధ్యమవుతాయి.",
+          "అమూర్త ప్రకోప దశలో అమూర్త తార్కిక ఆలోచన కనిపిస్తుంది."
+        ],
+        "orderIndex": 4,
+        "estimatedMinutes": 60,
+        "questions": [
+          {
+            "id": "cdp_full_AP_DSC_cdp_t4_q1",
+            "question": "A child thinks that the moon is following him when he walks at night. According to Piaget, this demonstrates:",
+            "questionTe": "రాత్రిపూట నడుస్తున్నప్పుడు చంద్రుడు తన వెంటే వస్తున్నాడని ఒక బాలుడు భావించాడు. పియాజె ప్రకారం ఇది దేనిని సూచిస్తుంది?",
+            "options": [
+              "Conservation",
+              "Animism",
+              "Egocentrism",
+              "Object permanence"
+            ],
+            "optionsTe": [
+              "పదిలపరచుకునే భావన",
+              "సర్వాత్మకవాదం",
+              "అహంకేంద్రవాదం",
+              "వస్తు స్థిరత్వ భావన"
+            ],
+            "correctIndex": 1,
+            "explanation": "Animism is the belief that inanimate objects (like the moon, clouds, toys) have lifelike qualities and intentions.",
+            "explanationTe": "ప్రాణం లేని వస్తువులకు (చంద్రుడు, మేఘాలు, బొమ్మలు) ప్రాణాన్ని ఆపాదించి అవి సజీవుల వలె ప్రవర్తిస్తాయని నమ్మడాన్ని సర్వాత్మకవాదం (Animism) అంటారు.",
+            "difficulty": "MEDIUM",
+            "year": 2018,
+            "isPreviousYear": true,
+            "topicId": "cdp_full_AP_DSC_cdp_t4",
+            "examType": "AP_DSC"
+          },
+          {
+            "id": "cdp_full_AP_DSC_cdp_t4_q2",
+            "question": "At which stage of Piaget's theory does a child achieve 'Conservation'?",
+            "questionTe": "పియాజె సిద్ధాంతం ప్రకారం ఏ దశలో శిశువు 'పదిలపరచుకునే భావన'ను సాధిస్తాడు?",
+            "options": [
+              "Sensorimotor Stage",
+              "Pre-operational Stage",
+              "Concrete Operational Stage",
+              "Formal Operational Stage"
+            ],
+            "optionsTe": [
+              "ఇంద్రియ చాలక దశ",
+              "పూర్వ ప్రకోప దశ",
+              "మూర్త ప్రకోప దశ",
+              "అమూర్త ప్రకోప దశ"
+            ],
+            "correctIndex": 2,
+            "explanation": "Conservation (the understanding that physical properties remain constant despite changes in appearance) is mastered in the Concrete Operational stage.",
+            "explanationTe": "ఆకారం మారినా వస్తువుల పరిమాణం మారదనే 'పదిలపరచుకునే భావన'ను శిశువు మూర్త ప్రకోప దశలో (7-11 సం||) అర్థం చేసుకుంటాడు.",
+            "difficulty": "MEDIUM",
+            "year": 2021,
+            "isPreviousYear": true,
+            "topicId": "cdp_full_AP_DSC_cdp_t4",
+            "examType": "AP_DSC"
+          }
+        ]
+      },
+      {
+        "id": "cdp_full_AP_DSC_cdp_t5",
+        "title": "Vygotsky's Socio-Cultural Theory",
+        "titleTe": "వైగోట్స్కీ సాంఘిక-సాంస్కృతిక సిద్ధాంతం",
+        "content": "Lev Vygotsky stressed the fundamental role of social interaction and culture in the development of cognition.\n\nKey Concepts:\n1. Zone of Proximal Development (ZPD / సామీప్య వికాస ప్రదేశం): The distance between what a learner can do independently and what they can do with guidance.\n2. Scaffolding (మంచె / తాత్కాలిక మద్దతు): The temporary support given by a More Knowledgeable Other (MKO) to help the child achieve a task.\n3. More Knowledgeable Other (MKO): Anyone who has a better understanding or a higher ability level than the learner (e.g., teacher, peer, parent).\n4. Language and Thought: Vygotsky believed language is essential for cognitive development. He introduced the concept of 'Private Speech' (ప్రైవేట్ స్పీచ్ - స్వీయ భాషణం), where children talk to themselves to self-regulate their behavior.",
+        "contentTe": "లెవ్ వైగోట్స్కీ అభిప్రాయం ప్రకారం సంజ్ఞానాత్మక వికాసంలో సాంఘిక ప్రతిచర్యలు (Social interaction) మరియు సంస్కృతి (Culture) కీలక పాత్ర పోషిస్తాయి.\n\nకీలక భావనలు:\n1. సామీప్య వికాస ప్రదేశం (ZPD): ఒక విద్యార్థి ఇతరుల సహాయం లేకుండా స్వయంగా చేయగలిగిన దానికి మరియు ఒకరి మార్గదర్శకత్వంలో చేయగలిగిన దానికి మధ్య ఉన్న వ్యత్యాసమే ZPD.\n2. మంచె / ఉద్బోధ / తాత్కాలిక మద్దతు (Scaffolding): ఒక క్లిష్టమైన పనిని చేయడానికి పిల్లలకు ఇతరులు అందించే తాత్కాలిక మద్దతు లేదా సహాయం.\n3. అధిక జ్ఞానం గల ఇతరులు (MKO): విద్యార్థి కంటే ఎక్కువ జ్ఞానం లేదా సామర్థ్యం ఉన్న వ్యక్తులు (ఉపాధ్యాయుడు, తోటి విద్యార్థి, తల్లిదండ్రులు).\n4. భాష మరియు ఆలోచన: వికాసానికి భాష చాలా అవసరమని వైగోట్స్కీ నమ్మాడు. పిల్లలు తమ ప్రవర్తనను నియంత్రించుకోవడానికి తమతో తాము మాట్లాడుకోవడాన్ని ఆయన 'ప్రైవేట్ స్పీచ్' (స్వీయ భాషణం) అన్నాడు.",
+        "keyPoints": [
+          "Cognitive development is a socially mediated process.",
+          "ZPD is the core of Vygotsky's theory.",
+          "Scaffolding is temporary and gradually removed as the learner becomes independent.",
+          "Private speech transitions into inner speech as children grow older."
+        ],
+        "keyPointsTe": [
+          "జ్ఞానాత్మక వికాసం అనేది సామాజికంగా జరిగే ప్రక్రియ (గుంపులో నేర్చుకోవడం).",
+          "ZPD (Zone of Proximal Development) అనేది వైగోట్స్కీ సిద్ధాంతంలో ప్రధానమైనది.",
+          "మంచె (Scaffolding) అనేది తాత్కాలిక మద్దతు, విద్యార్థి స్వతంత్రంగా చేయగలిగేలా తయారయ్యాక దీనిని తొలగిస్తారు.",
+          "వయసు పెరిగే కొద్దీ ప్రైవేట్ స్పీచ్ అనేది అంతర్గత భాషణంగా మారుతుంది."
+        ],
+        "orderIndex": 5,
+        "estimatedMinutes": 45,
+        "questions": [
+          {
+            "id": "cdp_full_AP_DSC_cdp_t5_q1",
+            "question": "A teacher provides hints and clues to a student struggling with a math problem until the student solves it. This process is called:",
+            "questionTe": "ఒక విద్యార్థి గణిత సమస్యను పరిష్కరించలేకపోతున్నప్పుడు, ఉపాధ్యాయుడు చిన్న చిన్న హింట్స్ ఇచ్చి దానిని సాధించేలా చేయడాన్ని ఏమంటారు?",
+            "options": [
+              "Assimilation",
+              "Scaffolding",
+              "Equilibration",
+              "Conditioning"
+            ],
+            "optionsTe": [
+              "సాంశీకరణం",
+              "మంచె (Scaffolding)",
+              "సమతుల్యత",
+              "నిబంధనం"
+            ],
+            "correctIndex": 1,
+            "explanation": "Scaffolding refers to the temporary support or guidance given by an adult or peer to help a child accomplish a task within their ZPD.",
+            "explanationTe": "విద్యార్థి కష్టమైన పనిని చేస్తున్నప్పుడు MKO అందించే తాత్కాలిక మద్దతు లేదా హింట్స్ ఇవ్వడాన్ని మంచె లేదా ఉద్బోధ (Scaffolding) అంటారు.",
+            "difficulty": "EASY",
+            "year": 2019,
+            "isPreviousYear": true,
+            "topicId": "cdp_full_AP_DSC_cdp_t5",
+            "examType": "AP_DSC"
+          }
+        ]
+      },
+      {
+        "id": "cdp_full_AP_DSC_cdp_t6",
+        "title": "Kohlberg's Moral Development",
+        "titleTe": "కోల్బర్గ్ నైతిక వికాస సిద్ధాంతం",
+        "content": "Lawrence Kohlberg proposed a theory of moral development consisting of 3 levels and 6 stages, based on the responses to moral dilemmas (like the Heinz Dilemma).\n\nLevel 1: Pre-Conventional Morality (పూర్వ సాంప్రదాయక స్థాయి - 4-10 yrs)\n- Stage 1: Punishment and Obedience Orientation (శిక్ష - విధేయత): Good behavior is to avoid punishment.\n- Stage 2: Instrumental Relativist Orientation / Tit for Tat (సహజ సంతోషం - బహుమతి / బదులు తీర్చుకోవడం): Morality is based on self-interest and exchange.\n\nLevel 2: Conventional Morality (సాంప్రదాయక స్థాయి - 10-13 yrs)\n- Stage 3: Good Boy / Good Girl Orientation (మంచి బాలుడు - మంచి బాలిక): Morality is based on gaining approval from others.\n- Stage 4: Law and Order Orientation (శాసన ఉల్లంఘన - చట్టం): Following rules to maintain social order.\n\nLevel 3: Post-Conventional Morality (ఉత్తర సాంప్రదాయక స్థాయి - 13+ yrs)\n- Stage 5: Social Contract Orientation (సామాజిక ఒప్పందం): Rules are seen as flexible social contracts.\n- Stage 6: Universal Ethical Principle Orientation (సార్వత్రిక నైతిక సూత్రాలు): Morality is based on self-chosen abstract ethical principles (e.g., human rights, justice).",
+        "contentTe": "లారెన్స్ కోల్బర్గ్ నైతిక సందిగ్ధతల (ఉదా: హెయింజ్ సందిగ్ధత) ఆధారంగా నైతిక వికాస సిద్ధాంతాన్ని ప్రతిపాదించాడు. ఇందులో 3 స్థాయిలు, 6 దశలు ఉన్నాయి.\n\nస్థాయి 1: పూర్వ సాంప్రదాయక స్థాయి (4-10 సం||)\n- దశ 1: శిక్ష - విధేయత (Punishment & Obedience): శిక్షను తప్పించుకోవడానికి మాత్రమే విధేయత చూపుతారు.\n- దశ 2: బహుమతులు - సహజ సంతోషం (Tit for Tat): తమ స్వార్థం కోసం లేదా బహుమతుల కోసం నియమాలు పాటిస్తారు.\n\nస్థాయి 2: సాంప్రదాయక స్థాయి (10-13 సం||)\n- దశ 3: మంచి బాలుడు - మంచి బాలిక (Good Boy/Girl): ఇతరుల నుండి మెప్పు పొందడానికి నైతికంగా ప్రవర్తిస్తారు.\n- దశ 4: శాసన ఉల్లంఘన - చట్టం (Law & Order): సమాజ వ్యవస్థను కాపాడటానికి చట్టాలను కచ్చితంగా పాటిస్తారు.\n\nస్థాయి 3: ఉత్తర సాంప్రదాయక స్థాయి (13+ సం||)\n- దశ 5: సామాజిక ఒప్పందం (Social Contract): చట్టాలు మానవ సంక్షేమం కోసమేనని, అవసరమైతే వాటిని మార్చవచ్చని నమ్ముతారు.\n- దశ 6: సార్వత్రిక నైతిక సూత్రాలు (Universal Ethical Principles): మానవ హక్కులు, న్యాయం, సమానత్వం వంటి అంతరాత్మ ప్రబోధం ఆధారంగా నైతికతను పాటిస్తారు.",
+        "keyPoints": [
+          "Kohlberg's theory is based on Moral Dilemmas (నైతిక సందిగ్ధత).",
+          "There are 3 Levels and 6 Stages in total.",
+          "Pre-conventional morality is controlled by external consequences.",
+          "Post-conventional morality is based on internalised principles."
+        ],
+        "keyPointsTe": [
+          "కోల్బర్గ్ సిద్ధాంతం 'నైతిక సందిగ్ధత' (Moral Dilemmas) ఆధారంగా రూపొందించబడింది.",
+          "మొత్తం 3 స్థాయిలు, 6 దశలు ఉంటాయి.",
+          "పూర్వ సాంప్రదాయక స్థాయిలో నైతికత అనేది శిక్షలు, బహుమతుల (బాహ్య కారకాల) పై ఆధారపడి ఉంటుంది.",
+          "ఉత్తర సాంప్రదాయక స్థాయిలో నైతికత అనేది అంతరాత్మ (వ్యక్తిగత సూత్రాల) పై ఆధారపడి ఉంటుంది."
+        ],
+        "orderIndex": 6,
+        "estimatedMinutes": 45,
+        "questions": [
+          {
+            "id": "cdp_full_AP_DSC_cdp_t6_q1",
+            "question": "A child says, 'I will not steal because my parents will spank me.' This reflects which stage of Kohlberg's theory?",
+            "questionTe": "ఒక పిల్లవాడు 'నేను దొంగతనం చేయను, ఎందుకంటే మా అమ్మానాన్న నన్ను కొడతారు' అని అన్నాడు. ఇది కోల్బర్గ్ సిద్ధాంతంలో ఏ దశకు చెందుతుంది?",
+            "options": [
+              "Social Contract",
+              "Law and Order",
+              "Punishment and Obedience",
+              "Good Boy-Good Girl"
+            ],
+            "optionsTe": [
+              "సామాజిక ఒప్పందం",
+              "చట్టం మరియు క్రమం",
+              "శిక్ష మరియు విధేయత",
+              "మంచి బాలుడు - మంచి బాలిక"
+            ],
+            "correctIndex": 2,
+            "explanation": "At the Punishment and Obedience stage, the child determines the goodness or badness of an action based on whether it results in punishment.",
+            "explanationTe": "శిక్ష మరియు విధేయత దశలో, పిల్లలు శిక్షను తప్పించుకోవడం కోసమే నిబంధనలను పాటిస్తారు లేదా తప్పులు చేయకుండా ఉంటారు.",
+            "difficulty": "EASY",
+            "year": 2021,
+            "isPreviousYear": true,
+            "topicId": "cdp_full_AP_DSC_cdp_t6",
+            "examType": "AP_DSC"
+          }
+        ]
       }
     ]
   },
