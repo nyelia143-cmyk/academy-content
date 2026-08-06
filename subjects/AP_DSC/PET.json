@@ -1,0 +1,331 @@
+[
+  {
+    "id": "apdsc_pet_gk",
+    "examType": "AP_DSC",
+    "paperType": "PET",
+    "name": "General Knowledge & Current Affairs",
+    "nameTe": "జనరల్ నాలెడ్జ్ మరియు కరెంట్ అఫైర్స్",
+    "iconRes": "ic_gk",
+    "totalTopics": 1,
+    "totalQuestions": 1,
+    "orderIndex": 1,
+    "topics": [
+      {
+        "id": "apdsc_pet_gk_gk_t1",
+        "title": "General Knowledge - Indian Geography",
+        "titleTe": "జనరల్ నాలెడ్జ్ - భారత భౌగోళిక శాస్త్రం",
+        "content": "India is the seventh-largest country by area and the most populous country in the world. It is bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast.",
+        "contentTe": "విస్తీర్ణం ప్రకారం భారతదేశం ఏడవ అతిపెద్ద దేశం మరియు ప్రపంచంలో అత్యధిక జనాభా కలిగిన దేశం. దీనికి దక్షిణాన హిందూ మహాసముద్రం, నైరుతిలో అరేబియా సముద్రం మరియు ఆగ్నేయాన బంగాళాఖాతం సరిహద్దులుగా ఉన్నాయి.",
+        "keyPoints": [
+          "Total area: 3.28 million sq km",
+          "Highest peak in India: K2 (Godwin Austen) / Kangchenjunga",
+          "Longest river in India: Ganga"
+        ],
+        "keyPointsTe": [
+          "మొత్తం విస్తీర్ణం: 3.28 మిలియన్ చ.కి.మీ",
+          "భారతదేశంలో ఎత్తైన శిఖరం: K2 (గాడ్విన్ ఆస్టిన్) / కాంచన్‌జంగా",
+          "భారతదేశంలో పొడవైన నది: గంగా"
+        ],
+        "orderIndex": 1,
+        "estimatedMinutes": 25,
+        "questions": [
+          {
+            "id": "apdsc_pet_gk_gk_t1_q1",
+            "question": "Which is the longest river in India?",
+            "questionTe": "భారతదేశంలో పొడవైన నది ఏది?",
+            "options": [
+              "Godavari",
+              "Ganga",
+              "Brahmaputra",
+              "Yamuna"
+            ],
+            "optionsTe": [
+              "గోదావరి",
+              "గంగా",
+              "బ్రహ్మపుత్ర",
+              "యమునా"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Ganga is the longest river flowing entirely within India (2525 km).",
+            "explanationTe": "గంగా నది భారతదేశంలో ప్రవహించే అత్యంత పొడవైన నది (2525 కి.మీ).",
+            "difficulty": "EASY",
+            "year": 2019,
+            "isPreviousYear": true,
+            "topicId": "apdsc_pet_gk_gk_t1",
+            "subjectId": "apdsc_pet_gk",
+            "examType": "AP_DSC"
+          }
+        ],
+        "subjectId": "apdsc_pet_gk"
+      }
+    ]
+  },
+  {
+    "id": "apdsc_pet_pie",
+    "examType": "AP_DSC",
+    "paperType": "PET",
+    "name": "Perspectives in Education",
+    "nameTe": "విద్యా దృక్పథాలు",
+    "iconRes": "ic_pie",
+    "totalTopics": 3,
+    "totalQuestions": 3,
+    "orderIndex": 2,
+    "topics": [
+      {
+        "id": "apdsc_pet_pie_pie_t1",
+        "title": "History of Education in India",
+        "titleTe": "భారతదేశంలో విద్యా చరిత్ర",
+        "content": "Education in India has evolved from the Vedic period (Gurukula system) to Buddhist education, Islamic education, and modern British policies like Macaulay's Minute (1835) and Wood's Despatch (1854).",
+        "contentTe": "భారతదేశంలో విద్య వేద కాలం (గురుకుల వ్యవస్థ) నుండి బౌద్ధ విద్య, ఇస్లామిక్ విద్య మరియు మెకాలే మినిట్ (1835) మరియు వుడ్స్ డెస్పాచ్ (1854) వంటి ఆధునిక బ్రిటిష్ విధానాల వరకు అభివృద్ధి చెందింది.",
+        "keyPoints": [
+          "Vedic Education: Focus on spiritual growth",
+          "Macaulay's Minute (1835): Introduced English education",
+          "Wood's Despatch (1854): Magna Carta of Indian Education"
+        ],
+        "keyPointsTe": [
+          "వేద విద్య: ఆధ్యాత్మిక వృద్ధిపై దృష్టి",
+          "మెకాలే మినిట్ (1835): ఆంగ్ల విద్యను ప్రవేశపెట్టింది",
+          "వుడ్స్ డెస్పాచ్ (1854): భారతీయ విద్య యొక్క మాగ్నాకార్టా"
+        ],
+        "orderIndex": 1,
+        "estimatedMinutes": 35,
+        "questions": [
+          {
+            "id": "apdsc_pet_pie_pie_t1_q1",
+            "question": "Which document is called the 'Magna Carta' of Indian Education?",
+            "questionTe": "భారతీయ విద్య యొక్క 'మాగ్నాకార్టా' అని ఏ పత్రాన్ని పిలుస్తారు?",
+            "options": [
+              "Macaulay's Minute",
+              "Wood's Despatch",
+              "Hunter Commission",
+              "Sadler Commission"
+            ],
+            "optionsTe": [
+              "మెకాలే మినిట్",
+              "వుడ్స్ డెస్పాచ్",
+              "హంటర్ కమిషన్",
+              "సాడ్లర్ కమిషన్"
+            ],
+            "correctIndex": 1,
+            "explanation": "Wood's Despatch of 1854 is considered the Magna Carta of English Education in India.",
+            "explanationTe": "1854 నాటి వుడ్స్ డెస్పాచ్‌ను భారతదేశంలో ఆంగ్ల విద్య యొక్క మాగ్నాకార్టాగా పరిగణిస్తారు.",
+            "difficulty": "EASY",
+            "year": 2018,
+            "isPreviousYear": true,
+            "topicId": "apdsc_pet_pie_pie_t1",
+            "subjectId": "apdsc_pet_pie",
+            "examType": "AP_DSC"
+          }
+        ],
+        "subjectId": "apdsc_pet_pie"
+      },
+      {
+        "id": "apdsc_pet_pie_pie_t2",
+        "title": "National Education Policy (NEP) 2020",
+        "titleTe": "జాతీయ విద్యా విధానం (NEP) 2020",
+        "content": "NEP 2020 aims to transform India's education system. It replaces the 10+2 structure with a 5+3+3+4 design covering ages 3 to 18.",
+        "contentTe": "NEP 2020 భారతదేశ విద్యా వ్యవస్థను మార్చడం లక్ష్యంగా పెట్టుకుంది. ఇది 3 నుండి 18 సంవత్సరాల వయస్సును కవర్ చేస్తూ 10+2 నిర్మాణాన్ని 5+3+3+4 డిజైన్‌తో భర్తీ చేస్తుంది.",
+        "keyPoints": [
+          "5+3+3+4 Curriculum structure",
+          "Foundational literacy and numeracy (FLN) by Grade 3",
+          "Mother tongue as medium of instruction till Grade 5",
+          "Holistic multidisciplinary education"
+        ],
+        "keyPointsTe": [
+          "5+3+3+4 పాఠ్యాంశాల నిర్మాణం",
+          "గ్రేడ్ 3 నాటికి ఫౌండేషనల్ లిటరసీ మరియు న్యూమరసీ (FLN)",
+          "గ్రేడ్ 5 వరకు మాతృభాష బోధనా మాధ్యమంగా",
+          "సంపూర్ణ బహుళవిజ్ఞాన విద్య"
+        ],
+        "orderIndex": 2,
+        "estimatedMinutes": 40,
+        "questions": [
+          {
+            "id": "apdsc_pet_pie_pie_t2_q1",
+            "question": "What is the new pedagogical structure proposed by NEP 2020?",
+            "questionTe": "NEP 2020 ప్రతిపాదించిన కొత్త బోధనా నిర్మాణం ఏమిటి?",
+            "options": [
+              "10 + 2",
+              "5 + 3 + 3 + 4",
+              "8 + 4 + 3",
+              "5 + 5 + 4"
+            ],
+            "optionsTe": [
+              "10 + 2",
+              "5 + 3 + 3 + 4",
+              "8 + 4 + 3",
+              "5 + 5 + 4"
+            ],
+            "correctIndex": 1,
+            "explanation": "NEP 2020 replaces the 10+2 structure with a 5+3+3+4 structure.",
+            "explanationTe": "NEP 2020 10+2 నిర్మాణాన్ని 5+3+3+4 నిర్మాణంతో భర్తీ చేస్తుంది.",
+            "difficulty": "EASY",
+            "year": 2023,
+            "isPreviousYear": true,
+            "topicId": "apdsc_pet_pie_pie_t2",
+            "subjectId": "apdsc_pet_pie",
+            "examType": "AP_DSC"
+          }
+        ],
+        "subjectId": "apdsc_pet_pie"
+      },
+      {
+        "id": "apdsc_pet_pie_pie_t3",
+        "title": "Inclusive Education",
+        "titleTe": "సమ్మిళిత విద్య",
+        "content": "Inclusive education means all children, regardless of their physical, intellectual, social, emotional, or linguistic conditions, learn together in the same classroom.",
+        "contentTe": "సమ్మిళిత విద్య అంటే పిల్లలందరూ, వారి శారీరక, మేధో, సామాజిక, భావోద్వేగ లేదా భాషా పరిస్థితులతో సంబంధం లేకుండా, ఒకే తరగతి గదిలో కలిసి నేర్చుకోవడం.",
+        "keyPoints": [
+          "Rights of Persons with Disabilities (RPWD) Act 2016",
+          "Addresses special educational needs (SEN)",
+          "Promotes equity and eliminates discrimination"
+        ],
+        "keyPointsTe": [
+          "వికలాంగుల హక్కుల (RPWD) చట్టం 2016",
+          "ప్రత్యేక విద్యా అవసరాలను (SEN) పరిష్కరిస్తుంది",
+          "సమానత్వాన్ని ప్రోత్సహిస్తుంది మరియు వివక్షను తొలగిస్తుంది"
+        ],
+        "orderIndex": 3,
+        "estimatedMinutes": 30,
+        "questions": [
+          {
+            "id": "apdsc_pet_pie_pie_t3_q1",
+            "question": "Inclusive Education primarily focuses on:",
+            "questionTe": "సమ్మిళిత విద్య ప్రధానంగా దేనిపై దృష్టి పెడుతుంది?",
+            "options": [
+              "Only gifted children",
+              "Only disabled children",
+              "Integrating all children in mainstream schools",
+              "Special schools for special needs"
+            ],
+            "optionsTe": [
+              "ప్రతిభావంతులైన పిల్లలు మాత్రమే",
+              "వికలాంగ పిల్లలు మాత్రమే",
+              "పిల్లలందరినీ ప్రధాన స్రవంతి పాఠశాలల్లో కలపడం",
+              "ప్రత్యేక అవసరాల కోసం ప్రత్యేక పాఠశాలలు"
+            ],
+            "correctIndex": 2,
+            "explanation": "Inclusive education emphasizes accommodating every child in mainstream general education.",
+            "explanationTe": "సమ్మిళిత విద్య ప్రతి బిడ్డను ప్రధాన స్రవంతి సాధారణ విద్యలో చేర్చడాన్ని నొక్కి చెబుతుంది.",
+            "difficulty": "MEDIUM",
+            "year": 2022,
+            "isPreviousYear": true,
+            "topicId": "apdsc_pet_pie_pie_t3",
+            "subjectId": "apdsc_pet_pie",
+            "examType": "AP_DSC"
+          }
+        ],
+        "subjectId": "apdsc_pet_pie"
+      }
+    ]
+  },
+  {
+    "id": "apdsc_pet_physical_edu",
+    "examType": "AP_DSC",
+    "paperType": "PET",
+    "name": "Physical Education (Content & Methodology)",
+    "nameTe": "శారీరక విద్య (కంటెంట్ మరియు మెథడాలజీ)",
+    "iconRes": "ic_physical_education",
+    "totalTopics": 2,
+    "totalQuestions": 2,
+    "orderIndex": 3,
+    "topics": [
+      {
+        "id": "apdsc_pet_physical_edu_pe_t1",
+        "title": "History & Principles of Physical Education",
+        "titleTe": "శారీరక విద్య చరిత్ర & సూత్రాలు",
+        "content": "Physical education aims at the holistic development of an individual. It includes the history of ancient Olympics (776 BC) and modern Olympics (1896, Athens).",
+        "contentTe": "శారీరక విద్య ఒక వ్యక్తి యొక్క సమగ్ర అభివృద్ధిని లక్ష్యంగా పెట్టుకుంది. ఇందులో ప్రాచీన ఒలింపిక్స్ (776 BC) మరియు ఆధునిక ఒలింపిక్స్ (1896, ఏథెన్స్) చరిత్ర ఉంటుంది.",
+        "keyPoints": [
+          "Ancient Olympics started in 776 BC in Greece",
+          "Modern Olympics founded by Baron Pierre de Coubertin in 1896",
+          "Olympic motto: Citius, Altius, Fortius (Faster, Higher, Stronger)"
+        ],
+        "keyPointsTe": [
+          "ప్రాచీన ఒలింపిక్స్ 776 BC లో గ్రీస్‌లో ప్రారంభమయ్యాయి",
+          "ఆధునిక ఒలింపిక్స్‌ను 1896లో బేరన్ పియరీ డి కోబెర్టిన్ స్థాపించారు",
+          "ఒలింపిక్ నినాదం: సిటియస్, ఆల్టియస్, ఫోర్టియస్ (వేగంగా, ఎత్తుగా, బలంగా)"
+        ],
+        "orderIndex": 1,
+        "estimatedMinutes": 40,
+        "questions": [
+          {
+            "id": "apdsc_pet_physical_edu_pe_t1_q1",
+            "question": "Where were the first modern Olympic Games held in 1896?",
+            "questionTe": "1896 లో మొదటి ఆధునిక ఒలింపిక్ క్రీడలు ఎక్కడ జరిగాయి?",
+            "options": [
+              "Paris",
+              "London",
+              "Athens",
+              "Rome"
+            ],
+            "optionsTe": [
+              "పారిస్",
+              "లండన్",
+              "ఏథెన్స్",
+              "రోమ్"
+            ],
+            "correctIndex": 2,
+            "explanation": "The first modern Olympic Games were held in Athens, Greece in 1896.",
+            "explanationTe": "మొదటి ఆధునిక ఒలింపిక్ క్రీడలు 1896లో గ్రీస్‌లోని ఏథెన్స్‌లో జరిగాయి.",
+            "difficulty": "EASY",
+            "year": 2018,
+            "isPreviousYear": true,
+            "topicId": "apdsc_pet_physical_edu_pe_t1",
+            "subjectId": "apdsc_pet_physical_edu",
+            "examType": "AP_DSC"
+          }
+        ],
+        "subjectId": "apdsc_pet_physical_edu"
+      },
+      {
+        "id": "apdsc_pet_physical_edu_pe_t2",
+        "title": "Anatomy and Physiology in Sports",
+        "titleTe": "క్రీడలలో అనాటమీ మరియు ఫిజియాలజీ",
+        "content": "Anatomy is the study of the structure of the human body, while physiology is the study of its functions. The skeletal system has 206 bones in an adult.",
+        "contentTe": "అనాటమీ అనేది మానవ శరీర నిర్మాణం యొక్క అధ్యయనం, అయితే ఫిజియాలజీ అనేది దాని విధులను అధ్యయనం చేస్తుంది. వయోజనుడి అస్థిపంజర వ్యవస్థలో 206 ఎముకలు ఉంటాయి.",
+        "keyPoints": [
+          "Longest bone in the human body: Femur (thigh bone)",
+          "Smallest bone: Stapes (in the ear)",
+          "Cardiac muscles are found only in the heart"
+        ],
+        "keyPointsTe": [
+          "మానవ శరీరంలో పొడవైన ఎముక: తొడ ఎముక (ఫీమర్)",
+          "అతి చిన్న ఎముక: స్టేపిస్ (చెవిలో ఉంటుంది)",
+          "గుండె కండరాలు గుండెలో మాత్రమే కనిపిస్తాయి"
+        ],
+        "orderIndex": 2,
+        "estimatedMinutes": 45,
+        "questions": [
+          {
+            "id": "apdsc_pet_physical_edu_pe_t2_q1",
+            "question": "Which is the longest bone in the human body?",
+            "questionTe": "మానవ శరీరంలో అతి పొడవైన ఎముక ఏది?",
+            "options": [
+              "Tibia",
+              "Fibula",
+              "Femur",
+              "Humerus"
+            ],
+            "optionsTe": [
+              "టిబియా",
+              "ఫిబ్యులా",
+              "ఫీమర్ (తొడ ఎముక)",
+              "హ్యూమరస్"
+            ],
+            "correctIndex": 2,
+            "explanation": "The femur or thigh bone is the longest, heaviest, and strongest bone in the human body.",
+            "explanationTe": "ఫీమర్ లేదా తొడ ఎముక మానవ శరీరంలో పొడవైన, బరువైన మరియు బలమైన ఎముక.",
+            "difficulty": "EASY",
+            "year": 2021,
+            "isPreviousYear": true,
+            "topicId": "apdsc_pet_physical_edu_pe_t2",
+            "subjectId": "apdsc_pet_physical_edu",
+            "examType": "AP_DSC"
+          }
+        ],
+        "subjectId": "apdsc_pet_physical_edu"
+      }
+    ]
+  }
+]
